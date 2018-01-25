@@ -81,12 +81,37 @@ def depthFirstSearch(problem):
 
     To get started, you might want to try some of these simple commands to
     understand the search problem that is being passed in:
-
+    """
     print "Start:", problem.getStartState()
     print "Is the start a goal?", problem.isGoalState(problem.getStartState())
     print "Start's successors:", problem.getSuccessors(problem.getStartState())
-    """
+    
     "*** YOUR CODE HERE ***"
+
+    visited = []
+    path = []
+    fringe = util.Stack()
+    nodeStart = (problem.getStartState(), None, 0)
+    fringe.push(nodeStart)
+
+    while not fringe.isEmpty():
+        current_node = fringe.pop()
+
+        if problem.isGoalState(current_node[0]):
+            return path + [current_node[1]]
+
+        visited = visited + [current_node[0]]
+
+        child_nodes = problem.getSuccessors(current_node[0])
+        
+        for node in child_nodes:
+            if node[0] not in visited:
+                if problem.isGoalState(node[0]):
+                    return path + [node[1]]
+                fringe.push(node)
+
+    return path
+    
     util.raiseNotDefined()
 
 def breadthFirstSearch(problem):
