@@ -18,6 +18,7 @@ Pacman agents (in searchAgents.py).
 """
 
 import util
+from time import sleep
 
 class SearchProblem:
     """
@@ -87,18 +88,18 @@ def depthFirstSearch(problem):
     print "Start's successors:", problem.getSuccessors(problem.getStartState())
     
     "*** YOUR CODE HERE ***"
-
     visited = []
     path = []
     fringe = util.Stack()
-    nodeStart = (problem.getStartState(), None, 0)
+    nodeStart = (problem.getStartState(), path)
     fringe.push(nodeStart)
-
+    
     while not fringe.isEmpty():
         current_node = fringe.pop()
+        path = current_node[1]
 
         if problem.isGoalState(current_node[0]):
-            return path + [current_node[1]]
+            return path
 
         visited = visited + [current_node[0]]
 
@@ -108,7 +109,8 @@ def depthFirstSearch(problem):
             if node[0] not in visited:
                 if problem.isGoalState(node[0]):
                     return path + [node[1]]
-                fringe.push(node)
+                node_to_push = (node[0], path + [node[1]])
+                fringe.push(node_to_push)
 
     return path
     
