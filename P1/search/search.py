@@ -83,11 +83,14 @@ def depthFirstSearch(problem):
     To get started, you might want to try some of these simple commands to
     understand the search problem that is being passed in:
     """
+    """
     print "Start:", problem.getStartState()
     print "Is the start a goal?", problem.isGoalState(problem.getStartState())
-    print "Start's successors:", problem.getSuccessors(problem.getStartState())
+    print "Start's successors:", problem.getSuccessors(problem.getStartState())'''
+    """
     
     "*** YOUR CODE HERE ***"
+
     visited = []
     path = []
     fringe = util.Stack()
@@ -96,34 +99,82 @@ def depthFirstSearch(problem):
     
     while not fringe.isEmpty():
         current_node = fringe.pop()
+
         path = current_node[1]
 
         if problem.isGoalState(current_node[0]):
             return path
 
-        visited = visited + [current_node[0]]
+        if current_node[0] not in visited:
+            visited = visited + [current_node[0]]
+            child_nodes = problem.getSuccessors(current_node[0])
 
-        child_nodes = problem.getSuccessors(current_node[0])
-        
-        for node in child_nodes:
-            if node[0] not in visited:
-                if problem.isGoalState(node[0]):
-                    return path + [node[1]]
+            for node in child_nodes:
                 node_to_push = (node[0], path + [node[1]])
                 fringe.push(node_to_push)
 
     return path
-    
+
     util.raiseNotDefined()
 
 def breadthFirstSearch(problem):
     """Search the shallowest nodes in the search tree first."""
     "*** YOUR CODE HERE ***"
+
+    visited = []
+    path = []
+    fringe = util.Queue()
+    nodeStart = (problem.getStartState(), path)
+    fringe.push(nodeStart)
+
+    while not fringe.isEmpty():
+        current_node = fringe.pop()
+
+        path = current_node[1]
+
+        if problem.isGoalState(current_node[0]):
+            return path
+
+        if current_node[0] not in visited:
+            visited = visited + [current_node[0]]
+            child_nodes = problem.getSuccessors(current_node[0])
+
+            for node in child_nodes:
+                node_to_push = (node[0], path + [node[1]])
+                fringe.push(node_to_push)
+
+    return path
+
     util.raiseNotDefined()
 
 def uniformCostSearch(problem):
     """Search the node of least total cost first."""
     "*** YOUR CODE HERE ***"
+
+    visited = []
+    path = []
+    fringe = util.PriorityQueue()
+    nodeStart = (problem.getStartState(), path)
+    fringe.push(nodeStart, 0)
+
+    while not fringe.isEmpty():
+        current_node = fringe.pop()
+        path = current_node[1]
+
+        if problem.isGoalState(current_node[0]):
+            return path
+
+        if current_node[0] not in visited:
+            visited = visited + [current_node[0]]
+            child_nodes = problem.getSuccessors(current_node[0])
+
+            for node in child_nodes:
+                newCost = problem.getCostOfActions((path + [node[1]])) #get the total cost from the start to the node.
+                node_to_push = (node[0], path + [node[1]])
+                fringe.update(node_to_push, newCost)
+
+    return path
+
     util.raiseNotDefined()
 
 def nullHeuristic(state, problem=None):
@@ -136,6 +187,35 @@ def nullHeuristic(state, problem=None):
 def aStarSearch(problem, heuristic=nullHeuristic):
     """Search the node that has the lowest combined cost and heuristic first."""
     "*** YOUR CODE HERE ***"
+
+    visited = []
+    path = []
+    fringe = util.PriorityQueue()
+    state = problem.getStartState()
+    nodeStart = (state, path)
+    eval = heuristic(state, problem) #evaluation of the first heuristic
+    fringe.update(nodeStart, 0 + eval)
+
+    while not fringe.isEmpty():
+        current_node = fringe.pop()
+
+        path = current_node[1]
+
+        if problem.isGoalState(current_node[0]):
+            return path
+
+        if current_node[0] not in visited:
+            visited = visited + [current_node[0]]
+            child_nodes = problem.getSuccessors(current_node[0])
+
+            for node in child_nodes:
+                newCost = problem.getCostOfActions((path + [node[1]]))
+                nodeEval = heuristic(node[0], problem) #evaluation of the heuristic of the node
+                node_to_push = (node[0], path + [node[1]])
+                fringe.update(node_to_push, newCost + nodeEval) #We push the node with the cost + the heuristic
+
+    return path
+
     util.raiseNotDefined()
 
 
