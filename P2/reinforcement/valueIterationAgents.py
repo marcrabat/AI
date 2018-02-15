@@ -45,9 +45,9 @@ class ValueIterationAgent(ValueEstimationAgent):
 
         # Write value iteration code here
         "*** YOUR CODE HERE ***"
-        states = self.mdp.getStates()
+        states = self.mdp.getStates() #take the mdp problem
 
-        for i in range(self.iterations):
+        for i in range(self.iterations): #this is the loop of times we will want to compute the actionValues
             newValues = self.values.copy()
             for state in states:
                 maxValue = None
@@ -55,6 +55,7 @@ class ValueIterationAgent(ValueEstimationAgent):
                     tempValue = self.getQValue(state, action)
                     maxValue = max(tempValue, maxValue)
                     newValues[state] = maxValue
+		#here we take the action with max value in order to take the best action
             self.values = newValues
 
     def getValue(self, state):
@@ -75,7 +76,7 @@ class ValueIterationAgent(ValueEstimationAgent):
         transitions = self.mdp.getTransitionStatesAndProbs(state, action)
         for nextState, probability in transitions:
             value += probability * (self.mdp.getReward(state, action, nextState) + self.discount*self.values[nextState])
-
+	    #application of the equation = summatory of probability(nextState) * ((reward(nextState) + discount * value(nextState)
         return value
 
         util.raiseNotDefined()
@@ -93,11 +94,11 @@ class ValueIterationAgent(ValueEstimationAgent):
         valueOfState = None
         bestAction = None
 
-        if self.mdp.isTerminal(state):
+        if self.mdp.isTerminal(state): #in case we reach the terminal state, none action is returned
             return None
 
         actions = self.mdp.getPossibleActions(state)
-
+	#otherwise, we have to consider taking the max value to take an action
         for action in actions:
             actualResult = self.getQValue(state, action)
             if valueOfState <= actualResult:

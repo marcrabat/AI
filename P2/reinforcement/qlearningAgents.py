@@ -44,6 +44,7 @@ class QLearningAgent(ReinforcementAgent):
 
         "*** YOUR CODE HERE ***"
         self.QValues = util.Counter()
+	#initialize the matrix of QValues to zero
 
 
     def getQValue(self, state, action):
@@ -75,7 +76,7 @@ class QLearningAgent(ReinforcementAgent):
             return 0.0
         else:
             return max( qValueList )
-
+	# return the max value from the QValues computed for the neighboring positions
         util.raiseNotDefined()
 
     def computeActionFromQValues(self, state):
@@ -88,7 +89,7 @@ class QLearningAgent(ReinforcementAgent):
 
         action = None
         qValueMax = 0.0
-
+	#giving our QValues, computes the best action to take 
         for nextAction in self.getLegalActions(state):
             qValue = self.getQValue(state, nextAction)
             if qValue > qValueMax or action == None:
@@ -118,7 +119,7 @@ class QLearningAgent(ReinforcementAgent):
 
         if len(legalActions) == 0:
             return None
-
+	#here we take an action randomly with probability epsilon, otherwise (1-epsilon)
         if util.flipCoin(self.epsilon):
             return random.choice(legalActions)
         else:
@@ -140,6 +141,7 @@ class QLearningAgent(ReinforcementAgent):
         '''
          Q(state, action) = R(state, action) + Gamma * Max[Q(next state, all actions)]
         '''
+	#update in the QValues for each new sample we get, following the equation
         nextQValueList = []
         for nextAction in self.getLegalActions(nextState):
             nextQValueList.append( self.getQValue(nextState, nextAction) )
