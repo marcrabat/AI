@@ -62,7 +62,12 @@ def question3e():
 def question6():
     answerEpsilon = None
     answerLearningRate = None
-    return answerEpsilon, answerLearningRate
+    return 'NOT POSSIBLE'
+    '''
+    We have a probability of (2/4)^10 of finding the 10 ending states of the bridge, this probability done in 50 iterations augments to a probability
+    of 0.04882% of finding the 10 states after 50 iterations.
+    This probability is too low to depend on the epsilon or learning rate parameters, so the problem is NOT POSSIBLE.
+    '''
     # If not possible, return 'NOT POSSIBLE'
 
 if __name__ == '__main__':
