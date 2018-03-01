@@ -208,12 +208,79 @@ class AlphaBetaAgent(MultiAgentSearchAgent):
     """
       Your minimax agent with alpha-beta pruning (question 3)
     """
+    def minPacman(self, gameState, depth, numGhost, alpha, beta):
+
+        if gameState.isWin() or gameState.isLose() or depth == self.depth:
+            return self.evaluationFunction(gameState)
+
+        actions = gameState.getLegalActions(numGhost)
+        score = float('inf')
+
+        for action in actions:
+            if numGhost == gameState.getNumAgents() - 1:
+                nextStateMove = gameState.generateSuccessor(numGhost, action)
+                score = min(score, self.maxPacman(nextStateMove, depth + 1, alpha, beta))
+
+            else:
+                nextStateMove = gameState.generateSuccessor(numGhost, action)
+                score = min(score, self.minPacman(nextStateMove, depth, numGhost + 1, alpha, beta))
+
+            beta = min(beta, score)
+
+            if score < alpha:
+                break
+
+        return score
+
+
+    def maxPacman(self, gameState, depth, alpha, beta):
+
+        if gameState.isWin() or gameState.isLose() or depth == self.depth:
+            return self.evaluationFunction(gameState)
+
+        actions = gameState.getLegalActions(0)
+        score = float('-inf')
+
+        for action in actions:
+            nextStateMove = gameState.generateSuccessor(0, action)
+            score = max(score, self.minPacman(nextStateMove, depth, 1, alpha, beta))
+            alpha = max(alpha, score)
+
+            if score > beta:
+                break
+
+        return score
 
     def getAction(self, gameState):
+
         """
           Returns the minimax action using self.depth and self.evaluationFunction
         """
         "*** YOUR CODE HERE ***"
+        pacman = 0
+        initialGhost = 1
+        initialDepth = 0
+        actions = gameState.getLegalActions(pacman)
+
+        best_action = None
+        score = float('-inf')
+
+        alpha = float('-inf')
+        beta = float('inf')
+
+        for action in actions:
+            nextState = gameState.generateSuccessor(pacman, action)
+            prev_score = score
+            score = max(score, self.minPacman(nextState, initialDepth, initialGhost, alpha, beta))
+            '''if score > prev_score:
+                best_action = action'''
+
+            if score > alpha:
+                alpha = score
+                best_action = action
+
+        return best_action
+
         util.raiseNotDefined()
 
 class ExpectimaxAgent(MultiAgentSearchAgent):
