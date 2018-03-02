@@ -85,16 +85,16 @@ class ReflexAgent(Agent):
 
         maxScore = sys.maxint
         
-        if  len(remainingFood) == 0:
+        if  len(remainingFood) == 0: #Finished if no food left.
           return maxScore
         
-        closer_food = min([util.manhattanDistance(newPos, food) for food in remainingFood])
+        closer_food = min([util.manhattanDistance(newPos, food) for food in remainingFood]) #Get the closest dot of food and its distance to the player
 
-        for ghost in newGhostStates:
+        for ghost in newGhostStates:#Get the closest ghost and its distance to the player
           ghostPos = ghost.getPosition()
           closer_ghost = min([util.manhattanDistance(newPos, ghostPos) for ghost in newGhostStates])
 
-        score = successorGameState.getScore() + (closer_ghost - closer_food)
+        score = successorGameState.getScore() + (closer_ghost - closer_food)#Computing the score taking into account only the closest food and closest ghost.
         return score
 
 def scoreEvaluationFunction(currentGameState):
@@ -132,7 +132,7 @@ class MinimaxAgent(MultiAgentSearchAgent):
       Your minimax agent (question 2)
     """
 
-    def minPacman(self, gameState, depth, numGhost):
+    def minPacman(self, gameState, depth, numGhost): #Recursive function that computes the minimum rewarded state of an agent, normally used for the ghosts.
 
         if gameState.isWin() or gameState.isLose() or depth == self.depth:
             return self.evaluationFunction(gameState)
@@ -152,7 +152,7 @@ class MinimaxAgent(MultiAgentSearchAgent):
         return score
 
 
-    def maxPacman(self, gameState, depth):
+    def maxPacman(self, gameState, depth): # Recursive function that computes the maximum rewarced state of an agent, normally for the pacman.
 
         if gameState.isWin() or gameState.isLose() or depth == self.depth:
             return self.evaluationFunction(gameState)
@@ -196,15 +196,15 @@ class MinimaxAgent(MultiAgentSearchAgent):
         for action in actions:
             nextState = gameState.generateSuccessor(pacman, action)
             prev_score = score
-            score = max(score, self.minPacman(nextState, initialDepth, initialGhost))
-            if score > prev_score:
+            score = max(score, self.minPacman(nextState, initialDepth, initialGhost))#Starting the recursivity with min method of minimax.
+            if score > prev_score: #Getting the action with best score.
                 best_action = action
 
         return best_action
 
         util.raiseNotDefined()
 
-class AlphaBetaAgent(MultiAgentSearchAgent):
+class AlphaBetaAgent(MultiAgentSearchAgent): #Same execution of the minimaz agent, adding the alpha and beta parameters, using to compare the socre with them in each execution of the recursive methods.
     """
       Your minimax agent with alpha-beta pruning (question 3)
     """
