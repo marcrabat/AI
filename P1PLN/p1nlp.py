@@ -1,15 +1,37 @@
-from collections import Counter
+from collections import OrderedDict
 from itertools import groupby
 
 
 
 def main():
+	#PART 1
 	generate_model_from_training_set('corpus.txt', 'lexic.txt')
-	
+	#PART 2
 	model = load_model('lexic.txt')
-	tag_with_model("test_prova.txt", model, 'results_1.txt')
+	tag_with_model("test_1.txt", model, 'results_1.txt')
 	#tag_with_model("test_2.txt", model, 'results_2.txt')
 
+	#PART 3
+	compute_accuracy('results_1.txt', 'gold_standard_1.txt')
+
+
+def compute_accuracy(path_to_results, path_to_gold_standard):
+	results = load_evaluation_format(path_to_results)
+	gold_standard = load_evaluation_format(path_to_gold_standard)
+	count = 0.0
+	for i in xrange(len(results)):
+		if results.items()[i] == gold_standard.items()[i]:
+			count += 1
+	precision = (count / len(results))
+	print "Precision of the approximation: ", precision
+
+def load_evaluation_format(path):
+	with open(path, 'r') as eval:
+		values = OrderedDict()
+		for line in eval:
+			aux = line.decode("latin-1").encode("UTF-8").split()
+			values[aux[0].lower()] = aux[1]
+		return values
 
 def generate_model_from_training_set(path_to_training_set, output_filename):
 	with open(path_to_training_set, 'r') as training_set:	
