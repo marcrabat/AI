@@ -7,7 +7,7 @@ def main():
 	generate_model_from_training_set('corpus.txt', 'lexic.txt')
 	
 	model = load_model('lexic.txt')
-	tag_with_model("test_1.txt", model, 'results_1.txt')
+	tag_with_model("test_prova.txt", model, 'results_1.txt')
 	#tag_with_model("test_2.txt", model, 'results_2.txt')
 
 
@@ -28,7 +28,7 @@ def write_model_to_file(training_set, output_filename):
 def count_ocurrencies(training_set):
 	words_and_tags_dict = {}
 	for line in training_set:
-		aux = line.decode("latin_1").encode("UTF-8").split()
+		aux = line.decode("latin-1").encode("UTF-8").split()
 		aux[0] = aux[0].lower()
 		string = str(aux[0] + " " + aux[1])
 		if string not in words_and_tags_dict:
@@ -41,7 +41,7 @@ def load_model(path_to_model):
 	with open(path_to_model, 'r') as model:
 		loaded_model = {}
 		for line in model:
-			aux = line.decode("latin_1").encode("UTF-8").split()
+			aux = line.decode("latin-1").encode("UTF-8").split()
 			word = aux[0].lower()
 			gramatical_category = aux[1]
 			frequency = aux[2]
@@ -54,13 +54,13 @@ def tag_with_model(path_to_test, model, output_filename):
 		words = []
 		with open(output_filename, 'w') as results:
 			for line in test:
-				word = line.lower().split()
-				word = word[0].decode("latin_1").encode("UTF-8")
+				word = line.decode("latin-1").encode("UTF-8").split()
+				word = word[0].lower()
 				prediction = compute_prediction(word, model)
 				tup = (word, prediction)
-				format_to_print = str(word) + " " + str(prediction) + "\n"
-				format_to_print.decode("UTF-8").encode('latin-1')
-				results.write(format_to_print)
+				format_to_print = tup[0] + " " + tup[1] + "\n"
+				results.write(format_to_print.decode("UTF-8").encode("latin-1"))
+				
 		results.close()
 	
 	test.close()
@@ -78,7 +78,7 @@ def compute_best_gc(words_matched):
 	best_gc = "NONE"
 	for item in words_matched:
 		if int(item[1]) > best_score:
-			best_score = item[1]
+			best_score = int(item[1])
 			best_gc = item[0]
 	return best_gc
 			
