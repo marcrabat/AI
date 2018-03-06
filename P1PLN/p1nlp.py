@@ -67,7 +67,7 @@ def load_model(path_to_model):
 			word = aux[0].lower()
 			gramatical_category = aux[1]
 			frequency = aux[2]
-			loaded_model[word, gramatical_category] = frequency
+			loaded_model[word] = (gramatical_category, frequency)
 	model.close()
 	return loaded_model
 
@@ -89,11 +89,17 @@ def tag_with_model(path_to_test, model, output_filename):
 
 def compute_prediction(word, model):
 	##MIRAR CAS EN QUE NO EXISTEIX EN EL MODEL
+	if word not in model.keys():
+		print "NOT FOUND:", word #oju als espais abans de la paraula i mal escrites, aixo es d fdp
+		return "NONE"
+	
 	matches = []
 	for key, value in model.items():
-		if key[0] == word:
-			matches.append((key[1], value))  
+		if key == word:
+			tup = (value[0], value[1])
+			matches.append(tup) # value[0] categoria gramatical, value[1] freq.
 	return compute_best_gc(matches)
+
 
 def compute_best_gc(words_matched):
 	best_score = 0
