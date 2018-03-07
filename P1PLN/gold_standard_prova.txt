@@ -1,10 +1,2 @@
-En	Prep
-los	Det
-la	Det
-editoriales	NC
-Europa	NP
-por	Prep
-primera	Adj
-las	Det
-Venezuela	NP
-España	NP
+América	NP
+concurrirán	V
