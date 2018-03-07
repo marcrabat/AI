@@ -5,13 +5,17 @@ from itertools import groupby
 
 def main():
 	#PART 1
+	print "Generating model from training_set..."
 	generate_model_from_training_set('corpus.txt', 'lexic.txt')
 	#PART 2
+	print "Loading model from training_set..."
 	model = load_model('lexic.txt')
+	print "Tagging..."
 	tag_with_model("test_1.txt", model, 'results_1.txt')
 	#tag_with_model("test_2.txt", model, 'results_2.txt')
 
 	#PART 3
+	print "Computing results..."
 	compute_accuracy('results_1.txt', 'gold_standard_1.txt')
 
 
@@ -67,7 +71,7 @@ def load_model(path_to_model):
 			word = aux[0].lower()
 			gramatical_category = aux[1]
 			frequency = aux[2]
-			loaded_model[word] = (gramatical_category, frequency)
+			loaded_model[word, gramatical_category] = frequency
 	model.close()
 	return loaded_model
 
@@ -86,7 +90,7 @@ def tag_with_model(path_to_test, model, output_filename):
 		results.close()
 	
 	test.close()
-
+'''
 def compute_prediction(word, model):
 	##MIRAR CAS EN QUE NO EXISTEIX EN EL MODEL
 	if word not in model.keys():
@@ -109,7 +113,26 @@ def compute_best_gc(words_matched):
 			best_score = int(item[1])
 			best_gc = item[0]
 	return best_gc
-			
+'''		
+
+def compute_prediction(word, model):
+	##MIRAR CAS EN QUE NO EXISTEIX EN EL MODEL
+	matches = []
+	for key, value in model.items():
+		if key[0] == word:
+			matches.append((key[1], value))  
+	return compute_best_gc(matches)
+
+def compute_best_gc(words_matched):
+	best_score = 0
+	best_gc = "NONE"
+	for item in words_matched:
+		if int(item[1]) > best_score:
+			best_score = int(item[1])
+			best_gc = item[0]
+	return best_gc
 
 
 main()
+
+
