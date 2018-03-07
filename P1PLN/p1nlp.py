@@ -11,12 +11,12 @@ def main():
 	print "Loading model from training_set..."
 	model = load_model('lexic.txt')
 	print "Tagging..."
-	tag_with_model("test_1.txt", model, 'results_1.txt')
+	tag_with_model("test_prova.txt", model, 'results_prova.txt')
 	#tag_with_model("test_2.txt", model, 'results_2.txt')
 
 	#PART 3
 	print "Computing results..."
-	compute_accuracy('results_1.txt', 'gold_standard_1.txt')
+	compute_accuracy('results_prova.txt', 'gold_standard_prova.txt')
 
 
 def compute_accuracy(path_to_results, path_to_gold_standard):
@@ -26,6 +26,8 @@ def compute_accuracy(path_to_results, path_to_gold_standard):
 	for i in xrange(len(results)):
 		if results.items()[i] == gold_standard.items()[i]:
 			count += 1
+		else:
+			print results.items()[i], "doesn't match", gold_standard.items()[i]
 	precision = (count / len(results))
 	print "Precision of the approximation: ", precision
 
@@ -71,7 +73,8 @@ def load_model(path_to_model):
 			word = aux[0].lower()
 			gramatical_category = aux[1]
 			frequency = aux[2]
-			loaded_model[word, gramatical_category] = frequency
+			tup_key = (word, gramatical_category);
+			loaded_model[tup_key] = frequency
 	model.close()
 	return loaded_model
 
@@ -79,10 +82,13 @@ def tag_with_model(path_to_test, model, output_filename):
 	with open(path_to_test, 'r') as test:
 		words = []
 		with open(output_filename, 'w') as results:
+
 			for line in test:
 				word = line.decode("latin-1").encode("UTF-8").split()
 				word = word[0].lower()
+				
 				prediction = compute_prediction(word, model)
+				
 				tup = (word, prediction)
 				format_to_print = tup[0] + " " + tup[1] + "\n"
 				results.write(format_to_print.decode("UTF-8").encode("latin-1"))
@@ -90,49 +96,42 @@ def tag_with_model(path_to_test, model, output_filename):
 		results.close()
 	
 	test.close()
-'''
-def compute_prediction(word, model):
-	##MIRAR CAS EN QUE NO EXISTEIX EN EL MODEL
-	if word not in model.keys():
-		print "NOT FOUND:", word #oju als espais abans de la paraula i mal escrites, aixo es d fdp
-		return "NONE"
-	
-	matches = []
-	for key, value in model.items():
-		if key == word:
-			tup = (value[0], value[1])
-			matches.append(tup) # value[0] categoria gramatical, value[1] freq.
-	return compute_best_gc(matches)
-
-
-def compute_best_gc(words_matched):
-	best_score = 0
-	best_gc = "NONE"
-	for item in words_matched:
-		if int(item[1]) > best_score:
-			best_score = int(item[1])
-			best_gc = item[0]
-	return best_gc
-'''		
 
 def compute_prediction(word, model):
 	##MIRAR CAS EN QUE NO EXISTEIX EN EL MODEL
+
+	#print word, " doesn't appear in the model"
 	matches = []
 	for key, value in model.items():
 		if key[0] == word:
-			matches.append((key[1], value))  
-	return compute_best_gc(matches)
+			print key, value
+			matches.append((key, value))
+	#print "Matches of ", word, "--> ", matches
+	best_gc = compute_best_gc(matches)
+	#print "Returned: ", best_gc 
+	if best_gc == "NONE":
+		print "no trobat"
+	else:
+		return best_gc
+	
 
 def compute_best_gc(words_matched):
 	best_score = 0
 	best_gc = "NONE"
-	for item in words_matched:
-		if int(item[1]) > best_score:
-			best_score = int(item[1])
-			best_gc = item[0]
-	return best_gc
+	print words_matched
+	return ""
 
 
 main()
 
 
+'''('en', 'NP') doesn't match ('en', 'Prep')
+('los', 'Pron') doesn't match ('los', 'Det')
+('la', 'NP') doesn't match ('la', 'Det')
+('editoriales', 'Adj') doesn't match ('editoriales', 'NC')
+('europa', 'Adj') doesn't match ('europa', 'NP')
+('por', 'NP') doesn't match ('por', 'Prep')
+('primera', 'NC') doesn't match ('primera', 'Adj')
+('las', 'NP') doesn't match ('las', 'Det')
+('venezuela', 'NC') doesn't match ('venezuela', 'NP')
+('espa\xc3\x83\xc2\xb1a', 'NC') doesn't match ('espa\xc3\x83\xc2\xb1a', 'NP')'''
