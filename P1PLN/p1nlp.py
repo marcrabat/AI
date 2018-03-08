@@ -11,12 +11,12 @@ def main():
 	print "Loading model from training_set..."
 	model = load_model('lexic.txt')
 	print "Tagging..."
-	tag_with_model("test_prova.txt", model, 'results_prova.txt')
+	tag_with_model("test_2.txt", model, 'results_2.txt')
 	#tag_with_model("test_2.txt", model, 'results_2.txt')
 
 	#PART 3
 	print "Computing results..."
-	compute_accuracy('results_prova.txt', 'gold_standard_prova.txt')
+	compute_accuracy('results_2.txt', 'gold_standard_2.txt')
 
 
 def compute_accuracy(path_to_results, path_to_gold_standard):
@@ -74,23 +74,22 @@ def load_model(path_to_model):
 			gramatical_category = aux[1]
 			frequency = aux[2]
 			tup_key = (word, gramatical_category);
+			print tup_key[0]
 			loaded_model[tup_key] = frequency
 	model.close()
 	return loaded_model
 
 def tag_with_model(path_to_test, model, output_filename):
 	with open(path_to_test, 'r') as test:
-		words = []
 		with open(output_filename, 'w') as results:
 
 			for line in test:
 				word = line.decode("latin-1").encode("UTF-8").split()
 				word = word[0].lower()
-				
+				#print word
 				prediction = compute_prediction(word, model)
-				
-				tup = (word, prediction)
-				format_to_print = tup[0] + " " + tup[1] + "\n"
+
+				format_to_print = str(word) + " " + str(prediction) + "\n"
 				results.write(format_to_print.decode("UTF-8").encode("latin-1"))
 				
 		results.close()
@@ -100,16 +99,15 @@ def tag_with_model(path_to_test, model, output_filename):
 def compute_prediction(word, model):
 	##MIRAR CAS EN QUE NO EXISTEIX EN EL MODEL
 
-	#print word, " doesn't appear in the model"
 	matches = []
+	word = word.decode("latin-1").encode("UTF-8") #needed to deal with accent problems
 	for key, value in model.items():
-		if key[0] == word:
-			print key, value
+		if key[0] == word: #if compara(key[0], word):
 			matches.append((key, value))
-	#print "Matches of ", word, "--> ", matches
 	best_gc = compute_best_gc(matches)
-	#print "Returned: ", best_gc 
+
 	if best_gc == "NONE":
+		#gestiona
 		print "no trobat"
 	else:
 		return best_gc
@@ -118,8 +116,15 @@ def compute_prediction(word, model):
 def compute_best_gc(words_matched):
 	best_score = 0
 	best_gc = "NONE"
-	print words_matched
-	return ""
+	for item in words_matched:
+		if int(item[1]) > best_score:
+			best_score = int(item[1])
+			best_gc = item[0][1]
+	return best_gc
+
+#def compara(key, word):
+	#codi
+	#return true/false
 
 
 main()
