@@ -67,7 +67,6 @@ def load_evaluation_format(path):
 		for line in eval:
 			aux = line.decode("latin-1").encode("UTF-8").split()
 			values[aux[0].lower()] = aux[1]
-		print values
 		return values
 
 def compute_accuracy(path_to_results, path_to_gold_standard):
