@@ -52,10 +52,16 @@ class Classifier():
 			results.write("%1. Title: Results of Features")
 			results.write("\n%2. Sources:")
 			results.write("\n%\tAuthors: Ferran Cantarino i Marc Rabat")
-			results.write("\n@RELATION " + str(self.N) + " Features")
+			results.write("\n@RELATION " + str(self.N) + "_Features")
 			for item in self.most_frequent:
 				results.write("\n@ATTRIBUTE " + str(item) + " NUMERIC")
 			results.write("\n@ATTRIBUTE class {male, female}")
+			results.write("\n@DATA\n")
+			for file in self.files:
+				for k,v in file.features.items():
+					results.write(str(str(v) + ","))
+				results.write(str(file.gender+"\n"))
+
 
 		results.close()
 
@@ -121,7 +127,7 @@ class FileInstance():
 		#print(most_frequent)
 		counter = Counter(self.parsed_text).most_common(self.N)
 		for item in most_frequent:
-			self.features[item] = 0.0
+			self.features[item] = 0
 		for item in counter:
 			for k,v in self.features.items():
 				if item[0] == k:
