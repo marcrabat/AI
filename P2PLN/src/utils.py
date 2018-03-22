@@ -1,15 +1,18 @@
 import os
 from string import punctuation
 from collections import Counter
+from collections import OrderedDict
 import re
 
-class FeatureExtractor():
+class Classifier():
 	def __init__(self, dataset_dir, num_freq_words):
 		self.dataset_dir  = dataset_dir
 		self.files = []
 		self.N = num_freq_words
+		self.most_frequent = []
 		self.initialize_files()
 		self.parse_files()
+		self.num_words_corpus = 0
 
 	def initialize_files(self):
 		for file_name in os.listdir(self.dataset_dir):
@@ -21,12 +24,44 @@ class FeatureExtractor():
 			file.remove_stopwords()
 		#self.files[0].parse()
 		#self.files[0].remove_stopwords()
+	def most_frequent_words(self):
+		for file in self.files:
+			for word in file.parsed_text:
+				self.num_words_corpus += 1
+				self.most_frequent.append(word)
+		self.most_frequent = Counter(self.most_frequent).most_common(self.N)
+		aux = []
+		for item in self.most_frequent:
+			aux.append(item[0].lower())
+		self.most_frequent = aux
+		#print(self.most_frequent)
+		#print(self.num_words_corpus)
+
 	def compute_features(self):
 		for file in self.files:
 		#self.files[0].compute_vector()
-			file.compute_vector()
+			#print(self.most_frequent)
 			print(file.file_name)
-			print(file.features)
+			file.compute_vector(self.most_frequent)
+
+			#print(file.gender)
+			#print(file.features)
+
+	def generate_arff(self):
+		with open("results.arff", "w") as results:
+			results.write("%1. Title: Results of Features")
+			results.write("\n%2. Sources:")
+			results.write("\n%\tAuthors: Ferran Cantarino i Marc Rabat")
+			results.write("\n@RELATION " + str(self.N) + " Features")
+			for item in self.most_frequent:
+				results.write("\n@ATTRIBUTE " + str(item) + " NUMERIC")
+			results.write("\n@ATTRIBUTE class {male, female}")
+
+		results.close()
+
+
+
+
 class FileInstance():
 	#shared variables among all the file instances
 	with open("stopwords.txt", "r") as sw:
@@ -39,6 +74,7 @@ class FileInstance():
 	#instance variables
 	def __init__(self, dataset_dir, file_name, N_freq):
 		self.file_name = file_name
+		self.gender = re.sub('^[^A-Za-z]*', '', self.file_name)
 		self.file_descriptor = dataset_dir + file_name
 		self.input_text = []
 		
@@ -49,7 +85,8 @@ class FileInstance():
 		self.N = N_freq
 		self.number_of_words = 0
 		self.parsed_text = []
-		self.features = []
+		self.features = OrderedDict()
+		#self.features = OrderedDict()
 
 	def parse(self): #erase the punctuation symbols and after deleting first "-" or any conflictive char
 		#print("File: ", self.file_name)
@@ -80,14 +117,32 @@ class FileInstance():
 		#print(self.parsed_text) ##############amb aquest print es veu be com queden les paraules despres de parsejar-lo!
 		#print(len(self.parsed_text))
 
-	def compute_vector(self):
+	def compute_vector(self, most_frequent):
+		#print(most_frequent)
 		counter = Counter(self.parsed_text).most_common(self.N)
+		for item in most_frequent:
+			self.features[item] = 0.0
 		for item in counter:
+			for k,v in self.features.items():
+				if item[0] == k:
+					frequency = item[1]
+					value = (frequency / self.number_of_words) #sobre 100? sobre 1?
+					self.features[k] = value
+		print(self.features.keys())
+
+
+
+
+		
+
+		'''for item in counter:
 			value = 0.0
-			#word = (item[0]).lower ##canvio a minus
-			frequency = item[1]
-			value = (frequency / self.number_of_words)*100 #sobre 100? sobre 1?
-			dim = str(value) + " " + item[0]
-			#print(dim)
-			#dim = str(repr(value) + " " + word)
-			self.features.append(dim)
+			#print(item)
+			if item[0].lower() in most_frequent:
+				frequency = item[1]
+				value = (frequency / self.number_of_words) #sobre 100? sobre 1?
+				self.features[item[0].lower()] = value
+			else:
+				self.features[item[0].lower()] = value'''
+			
+		#print(str(self.features.keys()) #TODO: Fer printing ben fet???

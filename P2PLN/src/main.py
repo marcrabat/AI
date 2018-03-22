@@ -1,11 +1,12 @@
 
-from utils import FeatureExtractor
+from utils import Classifier
 
 
 class Main():
 	dataset_dir = "dataset/"
 	N = 5 #number of frequent words to be extracted
 
-	f_extractor = FeatureExtractor(dataset_dir, N)
-	f_extractor.compute_features()
-	#f_extractor.compute_features()
+	classifier = Classifier(dataset_dir, N)
+	classifier.most_frequent_words()
+	classifier.compute_features()
+	classifier.generate_arff()

@@ -1,0 +1,10 @@
+%1. Title: Results of Features
+%2. Sources:
+%	Authors: Ferran Cantarino i Marc Rabat
+@RELATION 5 Features
+@ATTRIBUTE people NUMERIC
+@ATTRIBUTE music NUMERIC
+@ATTRIBUTE time NUMERIC
+@ATTRIBUTE cancer NUMERIC
+@ATTRIBUTE year NUMERIC
+@ATTRIBUTE class {male, female}
