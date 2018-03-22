@@ -1,15 +1,11 @@
-import os
-from utils import FileDealer
+
+from utils import FilesDealer
 
 
 class Main():
-	
 	dataset_dir = "dataset/"
-	#Initializing the list of instances
-	files = []
-	for file_name in os.listdir(dataset_dir):
-		files.append(FileDealer(str(dataset_dir),str(file_name)))
+	N = 5 #number of frequent words to be extracted
 
-	print(files[0].stopwords)
-
-	
+	files_dealer = FilesDealer(dataset_dir, N)
+	files_dealer.initialize_files()
+	files_dealer.print_file()
