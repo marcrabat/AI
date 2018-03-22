@@ -1,11 +1,11 @@
 
-from utils import FilesDealer
+from utils import FeatureExtractor
 
 
 class Main():
 	dataset_dir = "dataset/"
 	N = 5 #number of frequent words to be extracted
 
-	files_dealer = FilesDealer(dataset_dir, N)
-	files_dealer.initialize_files()
-	files_dealer.print_file()
+	f_extractor = FeatureExtractor(dataset_dir, N)
+	f_extractor.parse_files()
+	#f_extractor.compute_features()
