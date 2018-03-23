@@ -27,7 +27,6 @@ class Classifier:
             file.parse()
             if self.remove_stopwords:
                 file.remove_stopwords()
-            # print(file.parsed_vocabulary)
 
     def most_frequent_words(self):
         for file in self.files:
@@ -43,7 +42,6 @@ class Classifier:
     def compute_features(self):
         for file in self.files:
             file.compute_vector(self.most_frequent)
-
 
     def generate_arff(self):
         file_name = str(self.N) + "- results - StopwordsRemoved: " + str(self.remove_stopwords) + ".arff"
@@ -70,7 +68,7 @@ class Classifier:
 
 class FileInstance:
     # shared variables among all the file instances
-    punctuation = str("!#$%&()*+\"/:;<=>@?[\].,^_—`{|}~")  # no cometa simple, si tota la resta
+    punctuation = str("!#$%&()*+\"/:;<=>?[\].,^_—`{|}~")  # no cometa simple, si tota la resta
 
     with open("stopwords.txt", "r") as sw:
         stopwords = sw.read().splitlines()
@@ -103,9 +101,8 @@ class FileInstance:
                     count += 1
                     self.features[item] = count
 
-        for k,v in self.features.items():
+        for k, v in self.features.items():
             self.features[k] = (v / self.vocabulary_length)
-
 
     def parse(self):
         self.first_pass()
