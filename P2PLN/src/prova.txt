@@ -1,2520 +1,959 @@
-689_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-696_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-186_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-298_female
-OrderedDict([('people', 0.008077544426494346), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-921_male
-OrderedDict([('people', 0.004667444574095682), ('music', 0.007584597432905484), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1177_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1192_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1064_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.01167728237791932)])
-503_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010899182561307902), ('year', 0.0)])
-585_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-599_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-39_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-832_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-268_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-716_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1251_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.006134969325153374)])
-1240_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-344_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.008982035928143712), ('year', 0.0)])
-1037_male
-OrderedDict([('people', 0.0), ('music', 0.0064285714285714285), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1212_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-79_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-499_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.023612750885478158), ('year', 0.0)])
-1061_male
-OrderedDict([('people', 0.0), ('music', 0.005581395348837209), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-81_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.022222222222222223)])
-332_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.004711425206124852), ('cancer', 0.015312131919905771), ('year', 0.0)])
-386_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-138_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1142_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-913_male
-OrderedDict([('people', 0.0), ('music', 0.004901960784313725), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-904_male
-OrderedDict([('people', 0.0), ('music', 0.003341129301703976), ('time', 0.006014032743067156), ('cancer', 0.0), ('year', 0.006014032743067156)])
-1042_male
-OrderedDict([('people', 0.0), ('music', 0.008046817849305048), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-400_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.019569471624266144), ('year', 0.0)])
-1119_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-593_female
-OrderedDict([('people', 0.0), ('music', 0.007177033492822967), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-252_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-609_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-837_male
-OrderedDict([('people', 0.0160857908847185), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-303_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-342_female
-OrderedDict([('people', 0.009345794392523364), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-389_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-203_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-310_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011577424023154847), ('year', 0.0)])
-435_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.017513134851138354), ('year', 0.0)])
-964_male
-OrderedDict([('people', 0.0), ('music', 0.007052896725440806), ('time', 0.004534005037783375), ('cancer', 0.0), ('year', 0.008060453400503778)])
-35_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1228_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1189_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-94_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1102_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.005291005291005291), ('cancer', 0.0), ('year', 0.0)])
-216_female
-OrderedDict([('people', 0.00922509225092251), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-699_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1208_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1259_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-490_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01669195751138088), ('year', 0.0)])
-29_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1078_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-271_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-356_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.02214022140221402), ('year', 0.0)])
-1130_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-324_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-545_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.023809523809523808), ('year', 0.0)])
-802_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-620_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-859_male
-OrderedDict([('people', 0.004678362573099415), ('music', 0.0035087719298245615), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-819_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1185_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1000_male
-OrderedDict([('people', 0.004646840148698885), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0055762081784386614)])
-864_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1138_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-825_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-579_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-597_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-87_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-979_male
-OrderedDict([('people', 0.00857365549493375), ('music', 0.011691348402182385), ('time', 0.007014809041309431), ('cancer', 0.0), ('year', 0.0)])
-174_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-85_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-380_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.007898894154818325), ('year', 0.0)])
-153_female
-OrderedDict([('people', 0.005946481665014866), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-632_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1146_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-331_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.006896551724137931), ('year', 0.0)])
-1236_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1245_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-37_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-257_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-399_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01812688821752266), ('year', 0.0)])
-334_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-347_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-202_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-387_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014285714285714285), ('year', 0.0)])
-1086_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-199_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0044742729306487695)])
-105_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1019_male
-OrderedDict([('people', 0.0), ('music', 0.0069767441860465115), ('time', 0.0), ('cancer', 0.0), ('year', 0.011627906976744186)])
-755_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1168_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-601_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-667_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-507_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-179_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-329_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.022427440633245383), ('year', 0.0)])
-731_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-592_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-971_male
-OrderedDict([('people', 0.0), ('music', 0.006057268722466961), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-148_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0040032025620496394), ('cancer', 0.0), ('year', 0.0)])
-793_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-230_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-323_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1052_male
-OrderedDict([('people', 0.011447260834014717), ('music', 0.008994276369582993), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1081_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-761_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-538_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-842_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-512_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012422360248447204), ('year', 0.0)])
-976_male
-OrderedDict([('people', 0.0), ('music', 0.006535947712418301), ('time', 0.005083514887436456), ('cancer', 0.0), ('year', 0.0)])
-1015_male
-OrderedDict([('people', 0.0), ('music', 0.013046815042210284), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-65_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.010471204188481676), ('cancer', 0.0), ('year', 0.0)])
-141_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-984_male
-OrderedDict([('people', 0.0), ('music', 0.010259917920656635), ('time', 0.008207934336525308), ('cancer', 0.0), ('year', 0.0)])
-1063_male
-OrderedDict([('people', 0.0), ('music', 0.010775862068965518), ('time', 0.005028735632183908), ('cancer', 0.0), ('year', 0.0)])
-281_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.008188331627430911), ('cancer', 0.0), ('year', 0.006141248720573183)])
-129_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-320_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01090909090909091), ('year', 0.0)])
-181_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-316_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-360_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0111731843575419), ('year', 0.0)])
-1210_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-277_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-76_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-954_male
-OrderedDict([('people', 0.0), ('music', 0.013458950201884253), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-888_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1054_male
-OrderedDict([('people', 0.0), ('music', 0.00604001510003775), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-707_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1126_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-709_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-371_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015909090909090907), ('year', 0.0)])
-92_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1206_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-572_female
-OrderedDict([('people', 0.008771929824561403), ('music', 0.0), ('time', 0.0), ('cancer', 0.015350877192982455), ('year', 0.0)])
-433_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.005240174672489083), ('cancer', 0.013100436681222707), ('year', 0.0)])
-722_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-622_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-47_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-853_male
-OrderedDict([('people', 0.0), ('music', 0.009283819628647215), ('time', 0.003978779840848806), ('cancer', 0.0), ('year', 0.0)])
-598_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-628_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-866_male
-OrderedDict([('people', 0.0), ('music', 0.006398537477148081), ('time', 0.003656307129798903), ('cancer', 0.0), ('year', 0.0)])
-124_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0051508462104488595), ('cancer', 0.0), ('year', 0.0)])
-974_male
-OrderedDict([('people', 0.0), ('music', 0.009583133684714902), ('time', 0.004312410158121706), ('cancer', 0.0), ('year', 0.0)])
-414_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-242_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-56_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-804_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-23_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-411_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.016905071521456438), ('year', 0.0)])
-795_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-111_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-131_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-333_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-559_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.009389671361502348), ('cancer', 0.018779342723004695), ('year', 0.0)])
-103_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.006535947712418301), ('cancer', 0.0), ('year', 0.0)])
-429_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.019933554817275746), ('year', 0.0)])
-374_female
-OrderedDict([('people', 0.00995575221238938), ('music', 0.0), ('time', 0.0), ('cancer', 0.017699115044247787), ('year', 0.0)])
-238_female
-OrderedDict([('people', 0.008421052631578947), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-772_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-93_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-856_male
-OrderedDict([('people', 0.009714632665452338), ('music', 0.012143290831815421), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-811_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-72_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-308_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.005931198102016607), ('year', 0.0)])
-88_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-603_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-626_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-694_male
-OrderedDict([('people', 0.0057306590257879654), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-28_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-768_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-71_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.012096774193548387), ('cancer', 0.0), ('year', 0.0)])
-451_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.013559322033898305), ('year', 0.0)])
-983_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-922_male
-OrderedDict([('people', 0.0), ('music', 0.004705882352941176), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1174_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-219_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.013029315960912053)])
-630_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-796_male
-OrderedDict([('people', 0.009230769230769232), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-516_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.008908685968819599), ('year', 0.0)])
-1128_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-207_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.01957585644371941)])
-542_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.016901408450704224), ('year', 0.0)])
-284_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-66_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1197_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1125_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-959_male
-OrderedDict([('people', 0.0), ('music', 0.004371584699453552), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-325_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010752688172043012), ('year', 0.0)])
-120_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-557_female
-OrderedDict([('people', 0.009727626459143969), ('music', 0.0), ('time', 0.0), ('cancer', 0.013618677042801557), ('year', 0.0)])
-269_female
-OrderedDict([('people', 0.011945392491467578), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-142_female
-OrderedDict([('people', 0.004942339373970346), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0032948929159802307)])
-717_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-443_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1111_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-57_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-555_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.010398613518197574), ('cancer', 0.0), ('year', 0.0)])
-679_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-747_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1011_male
-OrderedDict([('people', 0.0), ('music', 0.012247838616714697), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-544_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.022413793103448276), ('year', 0.0)])
-346_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-660_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1179_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-963_male
-OrderedDict([('people', 0.0), ('music', 0.010460251046025104), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-260_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-945_male
-OrderedDict([('people', 0.0), ('music', 0.015105740181268883), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-966_male
-OrderedDict([('people', 0.0), ('music', 0.022175290390707498), ('time', 0.004751847940865892), ('cancer', 0.0), ('year', 0.0)])
-455_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.020689655172413793), ('year', 0.0)])
-584_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1068_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1209_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-221_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-232_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0064516129032258064), ('cancer', 0.0), ('year', 0.0)])
-250_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-992_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1089_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1057_male
-OrderedDict([('people', 0.0), ('music', 0.006830601092896175), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-564_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-886_male
-OrderedDict([('people', 0.012376237623762377), ('music', 0.0), ('time', 0.00825082508250825), ('cancer', 0.0), ('year', 0.006600660066006601)])
-1196_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-783_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1091_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-808_male
-OrderedDict([('people', 0.00990990990990991), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-567_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-541_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-318_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-515_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014598540145985401), ('year', 0.0)])
-496_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012110726643598616), ('year', 0.0)])
-54_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-788_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-40_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-789_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-16_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-51_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-462_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.019855595667870037), ('year', 0.0)])
-938_male
-OrderedDict([('people', 0.0), ('music', 0.00749063670411985), ('time', 0.006420545746388443), ('cancer', 0.0), ('year', 0.0)])
-408_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-86_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-664_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-556_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.00539568345323741), ('year', 0.0)])
-204_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-487_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010588235294117647), ('year', 0.0)])
-32_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-822_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1110_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-49_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-838_male
-OrderedDict([('people', 0.016853932584269662), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-446_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011560693641618497), ('year', 0.0)])
-638_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-744_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1163_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-309_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010856453558504222), ('year', 0.0)])
-631_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1220_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1170_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-879_male
-OrderedDict([('people', 0.0), ('music', 0.00998003992015968), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1247_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-234_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-287_female
-OrderedDict([('people', 0.010526315789473684), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-651_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-882_male
-OrderedDict([('people', 0.0), ('music', 0.008665511265164644), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1012_male
-OrderedDict([('people', 0.00655307994757536), ('music', 0.005897771952817824), ('time', 0.00655307994757536), ('cancer', 0.0), ('year', 0.0)])
-279_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-806_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-700_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1213_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1222_male
-OrderedDict([('people', 0.006535947712418301), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-834_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-854_male
-OrderedDict([('people', 0.006864988558352402), ('music', 0.0), ('time', 0.006864988558352402), ('cancer', 0.0), ('year', 0.0)])
-381_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01486988847583643), ('year', 0.0)])
-267_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-675_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1136_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-816_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.005399568034557235), ('cancer', 0.0), ('year', 0.0)])
-666_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.023474178403755867), ('year', 0.0)])
-809_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-613_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.006012024048096192)])
-662_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-928_male
-OrderedDict([('people', 0.004288777698355968), ('music', 0.012866333095067906), ('time', 0.004288777698355968), ('cancer', 0.0), ('year', 0.0)])
-428_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-248_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-390_female
-OrderedDict([('people', 0.006628003314001657), ('music', 0.0), ('time', 0.0), ('cancer', 0.016570008285004142), ('year', 0.0)])
-291_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-681_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1186_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-484_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.021404109589041095), ('year', 0.0)])
-280_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-642_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1047_male
-OrderedDict([('people', 0.0), ('music', 0.012738853503184714), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-104_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-151_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-114_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-741_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-246_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1218_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-275_female
-OrderedDict([('people', 0.013020833333333334), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-534_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-519_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-25_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-445_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.013377926421404682), ('year', 0.0)])
-336_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.023474178403755867), ('year', 0.0)])
-589_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-958_male
-OrderedDict([('people', 0.008), ('music', 0.008), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-442_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0286144578313253), ('year', 0.0)])
-495_female
-OrderedDict([('people', 0.0106951871657754), ('music', 0.0), ('time', 0.0), ('cancer', 0.022727272727272728), ('year', 0.0)])
-146_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-962_male
-OrderedDict([('people', 0.0), ('music', 0.026490066225165563), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-900_male
-OrderedDict([('people', 0.006532066508313539), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.005344418052256532)])
-951_male
-OrderedDict([('people', 0.00411240575736806), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-790_male
-OrderedDict([('people', 0.008995502248875561), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1084_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-941_male
-OrderedDict([('people', 0.0), ('music', 0.008115942028985508), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-7_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-178_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-409_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012474012474012475), ('year', 0.0)])
-540_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.02631578947368421), ('year', 0.0)])
-354_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-209_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1214_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-574_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-865_male
-OrderedDict([('people', 0.006417736289381563), ('music', 0.009334889148191364), ('time', 0.006417736289381563), ('cancer', 0.0), ('year', 0.0)])
-530_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014227642276422764), ('year', 0.0)])
-890_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-469_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.004689331770222743), ('year', 0.0)])
-998_male
-OrderedDict([('people', 0.0), ('music', 0.009992862241256246), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1006_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-313_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.017094017094017096), ('year', 0.0)])
-521_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-570_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-421_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.018838304552590265), ('year', 0.0)])
-827_male
-OrderedDict([('people', 0.010033444816053512), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-160_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-77_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.006593406593406593), ('cancer', 0.0), ('year', 0.0)])
-299_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-526_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010687022900763359), ('year', 0.0)])
-1002_male
-OrderedDict([('people', 0.0), ('music', 0.005681818181818182), ('time', 0.004734848484848485), ('cancer', 0.0), ('year', 0.005681818181818182)])
-633_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.013937282229965157)])
-781_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1051_male
-OrderedDict([('people', 0.0), ('music', 0.014705882352941176), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-889_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.006269592476489028), ('cancer', 0.0), ('year', 0.0)])
-1005_male
-OrderedDict([('people', 0.0), ('music', 0.011904761904761904), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-391_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.017489069331667707), ('year', 0.0)])
-1123_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1075_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-364_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-810_male
-OrderedDict([('people', 0.007936507936507936), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-393_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015748031496062992), ('year', 0.0)])
-617_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.00528169014084507), ('cancer', 0.0), ('year', 0.0)])
-552_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.00788436268068331), ('year', 0.0)])
-502_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.019525801952580194), ('year', 0.0)])
-1022_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.006335797254487857), ('cancer', 0.0), ('year', 0.0)])
-427_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.017152658662092625), ('year', 0.0)])
-1211_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1013_male
-OrderedDict([('people', 0.0), ('music', 0.00964630225080386), ('time', 0.005627009646302251), ('cancer', 0.0), ('year', 0.0)])
-1060_male
-OrderedDict([('people', 0.0), ('music', 0.011613691931540342), ('time', 0.004278728606356968), ('cancer', 0.0), ('year', 0.0)])
-1076_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-621_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-607_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-917_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-721_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-375_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.00853658536585366), ('cancer', 0.0), ('year', 0.0)])
-1155_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-551_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.011461318051575931), ('cancer', 0.01862464183381089), ('year', 0.0)])
-1105_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-343_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-241_female
-OrderedDict([('people', 0.00718132854578097), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-166_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-861_male
-OrderedDict([('people', 0.0), ('music', 0.011299435028248588), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-943_male
-OrderedDict([('people', 0.0), ('music', 0.012100259291270527), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-930_male
-OrderedDict([('people', 0.0), ('music', 0.01736745886654479), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-695_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.009900990099009901)])
-115_female
-OrderedDict([('people', 0.0042765502494654314), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1199_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-370_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.023060796645702306), ('year', 0.0)])
-1106_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-273_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.011326860841423949), ('cancer', 0.0), ('year', 0.0)])
-782_male
-OrderedDict([('people', 0.008639308855291577), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-475_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.013114754098360656), ('year', 0.0)])
-685_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-769_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-458_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-125_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-742_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1137_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1260_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-735_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-401_female
-OrderedDict([('people', 0.008431703204047217), ('music', 0.0), ('time', 0.0), ('cancer', 0.013490725126475547), ('year', 0.0)])
-1249_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1124_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-581_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012362637362637362), ('year', 0.0)])
-937_male
-OrderedDict([('people', 0.0), ('music', 0.008975317875841436), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-145_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-500_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.007662835249042145)])
-743_male
-OrderedDict([('people', 0.00911854103343465), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-403_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014084507042253521), ('year', 0.0)])
-392_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0160857908847185), ('year', 0.0)])
-327_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014994232987312572), ('year', 0.0)])
-290_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-501_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011513157894736841), ('year', 0.0)])
-289_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-718_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-776_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-198_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-684_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1159_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-437_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1250_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-91_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-402_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-762_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-239_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-586_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-517_female
-OrderedDict([('people', 0.010964912280701754), ('music', 0.0), ('time', 0.0), ('cancer', 0.02631578947368421), ('year', 0.0)])
-860_male
-OrderedDict([('people', 0.006711409395973154), ('music', 0.007457121551081283), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1046_male
-OrderedDict([('people', 0.0), ('music', 0.008), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-99_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-836_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-715_male
-OrderedDict([('people', 0.009259259259259259), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.005291005291005291)])
-1253_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-576_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1071_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-74_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-4_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.010498687664041995)])
-639_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-965_male
-OrderedDict([('people', 0.0), ('music', 0.004297994269340974), ('time', 0.0057306590257879654), ('cancer', 0.0), ('year', 0.0)])
-6_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-188_female
-OrderedDict([('people', 0.004206098843322818), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-58_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-410_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1118_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-668_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.006818181818181818)])
-565_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.006696428571428571), ('year', 0.0)])
-1151_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.005422993492407809), ('cancer', 0.0), ('year', 0.0)])
-765_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-211_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-187_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-128_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-757_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1223_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-606_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-857_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-235_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1190_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1231_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-919_male
-OrderedDict([('people', 0.008070432868672046), ('music', 0.010271460014673514), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-590_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-42_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-851_male
-OrderedDict([('people', 0.0), ('music', 0.005885500267522739), ('time', 0.005885500267522739), ('cancer', 0.0), ('year', 0.0)])
-293_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-385_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-824_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-970_male
-OrderedDict([('people', 0.0), ('music', 0.012554585152838428), ('time', 0.004366812227074236), ('cancer', 0.0), ('year', 0.0)])
-479_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.021660649819494584), ('year', 0.0)])
-137_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1204_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-106_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-481_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015410958904109588), ('year', 0.0)])
-594_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-527_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.017738359201773836), ('year', 0.0)])
-732_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-914_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-968_male
-OrderedDict([('people', 0.0), ('music', 0.013921113689095127), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-870_male
-OrderedDict([('people', 0.0), ('music', 0.009250693802035153), ('time', 0.004625346901017576), ('cancer', 0.0), ('year', 0.0)])
-701_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-19_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-942_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-434_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.009513742071881607), ('year', 0.0)])
-818_male
-OrderedDict([('people', 0.009532888465204958), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1040_male
-OrderedDict([('people', 0.0), ('music', 0.006482982171799027), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-843_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-395_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-352_female
-OrderedDict([('people', 0.0), ('music', 0.010452961672473868), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-456_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01925722145804677), ('year', 0.0)])
-1184_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-777_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1182_male
-OrderedDict([('people', 0.009308510638297872), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-939_male
-OrderedDict([('people', 0.0), ('music', 0.009471191791633781), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1181_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-201_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-697_male
-OrderedDict([('people', 0.007042253521126761), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-83_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0038412291933418692), ('cancer', 0.0), ('year', 0.0)])
-726_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-362_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.00791295746785361), ('year', 0.0)])
-184_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-635_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-785_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-144_female
-OrderedDict([('people', 0.0034158838599487617), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-388_female
-OrderedDict([('people', 0.007960199004975124), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-508_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-366_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.025830258302583026), ('year', 0.0)])
-1055_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0044742729306487695), ('cancer', 0.0), ('year', 0.0)])
-839_male
-OrderedDict([('people', 0.015306122448979591), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-670_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1038_male
-OrderedDict([('people', 0.0), ('music', 0.0048543689320388345), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-494_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.009433962264150943), ('year', 0.0)])
-766_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-506_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011049723756906077), ('year', 0.0)])
-657_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-596_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-615_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1176_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-845_male
-OrderedDict([('people', 0.031185031185031187), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-549_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01702127659574468), ('year', 0.0)])
-404_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01947502116850127), ('year', 0.0)])
-872_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0045), ('cancer', 0.0), ('year', 0.007)])
-944_male
-OrderedDict([('people', 0.004359490274983233), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.004694835680751174)])
-282_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1014_male
-OrderedDict([('people', 0.00546875), ('music', 0.0078125), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-708_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-763_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-760_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-471_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-485_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0182648401826484), ('year', 0.0)])
-826_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-73_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-5_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-10_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-883_male
-OrderedDict([('people', 0.0), ('music', 0.007138607971445568), ('time', 0.0), ('cancer', 0.0), ('year', 0.006543723973825104)])
-912_male
-OrderedDict([('people', 0.007416563658838072), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.006798516687268232)])
-682_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-305_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01227830832196453), ('year', 0.0)])
-450_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1246_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-415_female
-OrderedDict([('people', 0.006644518272425249), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.006644518272425249)])
-46_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-102_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-306_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0037593984962406013)])
-470_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-176_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-867_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-382_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014563106796116505), ('year', 0.0)])
-112_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-868_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.00471253534401508)])
-799_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1158_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1021_male
-OrderedDict([('people', 0.0), ('music', 0.01054590570719603), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-480_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1101_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-725_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-278_female
-OrderedDict([('people', 0.009174311926605505), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-132_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-575_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01532567049808429), ('year', 0.0)])
-491_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.021638330757341576), ('year', 0.0)])
-468_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.016260162601626018), ('year', 0.0)])
-59_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-441_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-652_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1156_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-152_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-738_male
-OrderedDict([('people', 0.011306532663316583), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-394_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.00718562874251497), ('cancer', 0.009580838323353293), ('year', 0.0)])
-245_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1036_male
-OrderedDict([('people', 0.012021036814425245), ('music', 0.0), ('time', 0.0067618332081141996), ('cancer', 0.0), ('year', 0.0)])
-425_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.006944444444444444), ('year', 0.0)])
-840_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1109_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1025_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.007534983853606028)])
-109_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1203_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-359_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012211668928086838), ('year', 0.0)])
-200_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.004846526655896607), ('cancer', 0.0), ('year', 0.0)])
-337_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.018682399213372666), ('year', 0.0)])
-227_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.01072961373390558)])
-855_male
-OrderedDict([('people', 0.009259259259259259), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.011574074074074073)])
-910_male
-OrderedDict([('people', 0.0), ('music', 0.011790714812085483), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-513_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.029556650246305417), ('year', 0.0)])
-189_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-110_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-314_female
-OrderedDict([('people', 0.01008827238335435), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-464_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-134_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-96_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0028776978417266188), ('cancer', 0.0), ('year', 0.0028776978417266188)])
-775_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1193_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-647_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-48_female
-OrderedDict([('people', 0.005369127516778523), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-661_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-587_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-713_male
-OrderedDict([('people', 0.011002444987775062), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1135_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1016_male
-OrderedDict([('people', 0.0), ('music', 0.006839945280437756), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1094_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-319_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-225_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-335_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01085972850678733), ('year', 0.0)])
-82_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-524_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.013020833333333334), ('year', 0.0)])
-1198_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1030_male
-OrderedDict([('people', 0.0), ('music', 0.007575757575757576), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1003_male
-OrderedDict([('people', 0.0), ('music', 0.014760147601476014), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-147_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1058_male
-OrderedDict([('people', 0.0), ('music', 0.005390835579514825), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-978_male
-OrderedDict([('people', 0.0), ('music', 0.008645533141210375), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-569_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.023121387283236993), ('year', 0.0)])
-307_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01452513966480447), ('year', 0.0)])
-1141_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-171_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-690_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.01814300960512273)])
-510_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1243_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-618_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-236_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-625_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-560_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.009472259810554804), ('year', 0.0)])
-698_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.007832898172323759), ('year', 0.0)])
-431_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1098_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-249_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1227_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-98_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-326_female
-OrderedDict([('people', 0.007272727272727273), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-531_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.026923076923076925), ('year', 0.0)])
-264_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-996_male
-OrderedDict([('people', 0.0), ('music', 0.008928571428571428), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-792_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1143_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-773_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-328_female
-OrderedDict([('people', 0.005733944954128441), ('music', 0.0), ('time', 0.0), ('cancer', 0.017201834862385322), ('year', 0.0)])
-750_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1194_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-873_male
-OrderedDict([('people', 0.0), ('music', 0.01608187134502924), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-981_male
-OrderedDict([('people', 0.0), ('music', 0.0054694621695533276), ('time', 0.007292616226071103), ('cancer', 0.0), ('year', 0.0)])
-730_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1171_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-767_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-274_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-474_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.009205983889528193), ('year', 0.0)])
-185_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1157_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-251_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-478_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-197_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-190_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-301_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.006091370558375634), ('cancer', 0.0), ('year', 0.0)])
-168_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-465_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.007898894154818325), ('year', 0.0)])
-693_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-807_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-960_male
-OrderedDict([('people', 0.0), ('music', 0.006211180124223602), ('time', 0.0), ('cancer', 0.0), ('year', 0.006211180124223602)])
-874_male
-OrderedDict([('people', 0.0), ('music', 0.01166407465007776), ('time', 0.004665629860031105), ('cancer', 0.0), ('year', 0.0)])
-637_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1165_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-405_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01881331403762663), ('year', 0.0)])
-52_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-895_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-649_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1173_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-315_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1257_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-444_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1216_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1097_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-737_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1034_male
-OrderedDict([('people', 0.0), ('music', 0.012804878048780487), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-961_male
-OrderedDict([('people', 0.0), ('music', 0.007308970099667774), ('time', 0.004651162790697674), ('cancer', 0.0), ('year', 0.0)])
-483_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015655577299412915), ('year', 0.0)])
-999_male
-OrderedDict([('people', 0.00670690811535882), ('music', 0.010731052984574111), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-653_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1107_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-955_male
-OrderedDict([('people', 0.0), ('music', 0.010899182561307902), ('time', 0.006130790190735695), ('cancer', 0.0), ('year', 0.0)])
-934_male
-OrderedDict([('people', 0.006632434745400086), ('music', 0.0040650406504065045), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-256_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.007042253521126761), ('cancer', 0.0), ('year', 0.0)])
-296_female
-OrderedDict([('people', 0.0063371356147021544), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-244_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-705_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-817_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1070_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-703_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-903_male
-OrderedDict([('people', 0.0), ('music', 0.009657594381035996), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1032_male
-OrderedDict([('people', 0.0), ('music', 0.013377926421404682), ('time', 0.004459308807134894), ('cancer', 0.0), ('year', 0.0)])
-591_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-830_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-791_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-440_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014304291287386216), ('year', 0.0)])
-418_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014084507042253521), ('year', 0.0)])
-672_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.013729977116704805)])
-1254_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-453_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-740_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-276_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-927_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1233_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1139_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-116_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1219_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-511_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.02278481012658228), ('year', 0.0)])
-492_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01800327332242226), ('year', 0.0)])
-1221_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-582_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-852_male
-OrderedDict([('people', 0.005765534913516977), ('music', 0.0), ('time', 0.005124919923126201), ('cancer', 0.0), ('year', 0.0)])
-33_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-8_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-2_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.005934718100890208), ('cancer', 0.0), ('year', 0.0)])
-1067_male
-OrderedDict([('people', 0.003197158081705151), ('music', 0.003907637655417406), ('time', 0.003197158081705151), ('cancer', 0.0), ('year', 0.0)])
-1160_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1215_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-623_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-571_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1187_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-604_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-746_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-711_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1224_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-136_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-803_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-78_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-751_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-644_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1164_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-121_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1230_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-130_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.003257328990228013), ('cancer', 0.0), ('year', 0.0)])
-122_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-67_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-108_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-498_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-220_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1039_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1062_male
-OrderedDict([('people', 0.0), ('music', 0.009259259259259259), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-457_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011506276150627616), ('year', 0.0)])
-255_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-923_male
-OrderedDict([('people', 0.0), ('music', 0.00954653937947494), ('time', 0.0065632458233890216), ('cancer', 0.0), ('year', 0.0)])
-911_male
-OrderedDict([('people', 0.0), ('music', 0.01592356687898089), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-439_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.019255455712451863), ('year', 0.0)])
-753_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-38_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.01098901098901099)])
-636_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-749_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-143_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-350_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.016018306636155607), ('year', 0.0)])
-1234_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-691_male
-OrderedDict([('people', 0.007556675062972292), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-665_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-891_male
-OrderedDict([('people', 0.006271379703534778), ('music', 0.00855188141391106), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-155_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-312_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1093_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-177_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.006481481481481481)])
-17_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-406_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-466_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.022779043280182234), ('year', 0.0)])
-702_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-926_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1242_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-616_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-253_female
-OrderedDict([('people', 0.008695652173913044), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-812_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-994_male
-OrderedDict([('people', 0.0), ('music', 0.011284722222222222), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-412_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014450867052023121), ('year', 0.0)])
-924_male
-OrderedDict([('people', 0.0), ('music', 0.011538461538461539), ('time', 0.004395604395604396), ('cancer', 0.0), ('year', 0.0)])
-1059_male
-OrderedDict([('people', 0.006024096385542169), ('music', 0.010040160642570281), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-739_male
-OrderedDict([('people', 0.0085995085995086), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-948_male
-OrderedDict([('people', 0.008337675872850442), ('music', 0.0), ('time', 0.006253256904637832), ('cancer', 0.0), ('year', 0.0)])
-1020_male
-OrderedDict([('people', 0.0), ('music', 0.0078125), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1116_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-771_male
-OrderedDict([('people', 0.005012531328320802), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-476_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014796547472256474), ('year', 0.0)])
-674_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-169_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-869_male
-OrderedDict([('people', 0.005205320994794679), ('music', 0.009832272990167727), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-578_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-407_female
-OrderedDict([('people', 0.009080590238365494), ('music', 0.0), ('time', 0.0), ('cancer', 0.021566401816118047), ('year', 0.0)])
-523_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015730337078651686), ('year', 0.0)])
-27_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-936_male
-OrderedDict([('people', 0.0), ('music', 0.010070493454179255), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-648_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1079_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-135_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-897_male
-OrderedDict([('people', 0.0), ('music', 0.0055617352614015575), ('time', 0.004449388209121246), ('cancer', 0.0), ('year', 0.0)])
-3_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-875_male
-OrderedDict([('people', 0.0), ('music', 0.0108499095840868), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1108_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-229_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-31_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-841_male
-OrderedDict([('people', 0.01011804384485666), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-26_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-311_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.025454545454545455), ('year', 0.0)])
-550_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-748_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.005813953488372093)])
-1072_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1044_male
-OrderedDict([('people', 0.0), ('music', 0.007142857142857143), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-488_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01125703564727955), ('year', 0.0)])
-294_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-63_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1083_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-156_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-509_female
-OrderedDict([('people', 0.006711409395973154), ('music', 0.0), ('time', 0.0), ('cancer', 0.008948545861297539), ('year', 0.0)])
-629_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1087_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-931_male
-OrderedDict([('people', 0.0), ('music', 0.0052), ('time', 0.0056), ('cancer', 0.0), ('year', 0.0)])
-1085_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-514_female
-OrderedDict([('people', 0.016172506738544475), ('music', 0.0), ('time', 0.0), ('cancer', 0.018867924528301886), ('year', 0.0)])
-218_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-398_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.018581081081081082), ('year', 0.0)])
-489_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01791044776119403), ('year', 0.0)])
-525_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01532567049808429), ('year', 0.0)])
-624_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1035_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.00432338953739732)])
-270_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-683_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.00727802037845706), ('year', 0.0)])
-1096_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-217_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-438_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-995_male
-OrderedDict([('people', 0.0), ('music', 0.010015408320493066), ('time', 0.00539291217257319), ('cancer', 0.0), ('year', 0.0)])
-878_male
-OrderedDict([('people', 0.0), ('music', 0.006137322593018795), ('time', 0.0034522439585730723), ('cancer', 0.0), ('year', 0.0)])
-614_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.010572687224669603)])
-70_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.007751937984496124), ('cancer', 0.0), ('year', 0.0)])
-612_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-90_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-84_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-340_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.024777006937561942), ('year', 0.0)])
-821_male
-OrderedDict([('people', 0.01791044776119403), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1127_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1080_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.006963788300835654), ('cancer', 0.0), ('year', 0.0)])
-986_male
-OrderedDict([('people', 0.006984866123399301), ('music', 0.011641443538998836), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-206_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-953_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-24_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-61_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-610_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-89_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1201_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-756_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1256_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.007438894792773645)])
-486_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-422_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014705882352941176), ('year', 0.0)])
-1129_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-20_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-692_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-829_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-704_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-758_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-180_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-801_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.011093502377179081)])
-397_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-330_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.02395964691046658), ('year', 0.0)])
-885_male
-OrderedDict([('people', 0.0), ('music', 0.008376963350785341), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-504_female
-OrderedDict([('people', 0.011326860841423949), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1237_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1207_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-64_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-383_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015202702702702704), ('year', 0.0)])
-1023_male
-OrderedDict([('people', 0.0), ('music', 0.0045871559633027525), ('time', 0.0), ('cancer', 0.0), ('year', 0.0045871559633027525)])
-712_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-535_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-228_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1115_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1090_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-357_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010465116279069767), ('year', 0.0)])
-1235_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1169_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-154_female
-OrderedDict([('people', 0.004159733777038269), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.004159733777038269)])
-321_female
-OrderedDict([('people', 0.0063532401524777635), ('music', 0.0), ('time', 0.0), ('cancer', 0.020330368487928845), ('year', 0.0)])
-969_male
-OrderedDict([('people', 0.0), ('music', 0.011254019292604502), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-123_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-473_female
-OrderedDict([('people', 0.00847457627118644), ('music', 0.0), ('time', 0.0), ('cancer', 0.014527845036319613), ('year', 0.0)])
-215_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-472_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.016100178890876567), ('year', 0.0)])
-828_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-993_male
-OrderedDict([('people', 0.0), ('music', 0.018518518518518517), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-378_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-988_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.003808717731696995), ('cancer', 0.0), ('year', 0.0)])
-1167_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-714_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-258_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1031_male
-OrderedDict([('people', 0.003947368421052632), ('music', 0.012280701754385965), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1140_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-947_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.004134672179562906), ('cancer', 0.0), ('year', 0.0)])
-1202_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-935_male
-OrderedDict([('people', 0.0), ('music', 0.00727994705493051), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-719_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-997_male
-OrderedDict([('people', 0.004596191726854892), ('music', 0.007222586999343401), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1133_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-573_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-846_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-213_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-288_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-493_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011933174224343675), ('year', 0.0)])
-195_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-164_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-896_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-518_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1161_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-957_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-368_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01609657947686117), ('year', 0.0)])
-786_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-497_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012698412698412698), ('year', 0.0)])
-254_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-862_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-161_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0040941658137154556)])
-577_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-669_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-426_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-558_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.009195402298850575), ('year', 0.0)])
-858_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.009023789991796555)])
-1026_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.009654471544715448)])
-286_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-463_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.007836990595611285), ('year', 0.0)])
-1134_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1028_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-191_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-933_male
-OrderedDict([('people', 0.011634056054997356), ('music', 0.008461131676361713), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1007_male
-OrderedDict([('people', 0.0), ('music', 0.006802721088435374), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-62_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.00904977375565611), ('cancer', 0.0), ('year', 0.0)])
-196_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.003795066413662239)])
-113_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-192_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0049504950495049506), ('cancer', 0.0), ('year', 0.0)])
-1122_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1241_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-482_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011363636363636364), ('year', 0.0)])
-1069_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-18_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-863_male
-OrderedDict([('people', 0.0), ('music', 0.010706638115631691), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-317_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-372_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01557285873192436), ('year', 0.0)])
-259_female
-OrderedDict([('people', 0.013215859030837005), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1045_male
-OrderedDict([('people', 0.0), ('music', 0.009717314487632508), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-173_female
-OrderedDict([('people', 0.006379585326953748), ('music', 0.0), ('time', 0.006379585326953748), ('cancer', 0.0), ('year', 0.0)])
-384_female
-OrderedDict([('people', 0.007608695652173913), ('music', 0.0), ('time', 0.0), ('cancer', 0.016304347826086956), ('year', 0.0)])
-1175_male
-OrderedDict([('people', 0.0070921985815602835), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-34_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-956_male
-OrderedDict([('people', 0.005284015852047556), ('music', 0.012549537648612946), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-787_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1205_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-805_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1065_male
-OrderedDict([('people', 0.0), ('music', 0.009888751545117428), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-893_male
-OrderedDict([('people', 0.0036144578313253013), ('music', 0.006024096385542169), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1113_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1073_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-940_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.004640371229698376), ('cancer', 0.0), ('year', 0.004060324825986079)])
-322_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.004451038575667656), ('cancer', 0.0), ('year', 0.0)])
-13_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-876_male
-OrderedDict([('people', 0.0), ('music', 0.012085944494180842), ('time', 0.004476275738585497), ('cancer', 0.0), ('year', 0.0)])
-22_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-884_male
-OrderedDict([('people', 0.007340485601355167), ('music', 0.005081874647092038), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1131_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-21_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-770_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-157_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-50_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-894_male
-OrderedDict([('people', 0.0), ('music', 0.008358996920369555), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-568_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-641_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1120_male
-OrderedDict([('people', 0.0), ('music', 0.004231311706629055), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-396_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015817223198594025), ('year', 0.0)])
-165_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1255_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-659_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-814_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-848_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-646_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-752_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-588_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-727_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-373_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01835985312117503), ('year', 0.0)])
-459_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1095_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-553_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.004395604395604396), ('year', 0.0)])
-247_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-75_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-158_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0030737704918032786), ('cancer', 0.0), ('year', 0.0)])
-1152_male
-OrderedDict([('people', 0.0), ('music', 0.015772870662460567), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-850_male
-OrderedDict([('people', 0.0), ('music', 0.00884433962264151), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-338_female
-OrderedDict([('people', 0.005911330049261084), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1225_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-554_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-361_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-449_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.016100178890876567), ('year', 0.0)])
-304_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1112_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.008379888268156424), ('cancer', 0.0), ('year', 0.0)])
-754_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-980_male
-OrderedDict([('people', 0.0), ('music', 0.012738853503184714), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1217_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-150_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-30_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1180_male
-OrderedDict([('people', 0.010769230769230769), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1104_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-295_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-417_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0182648401826484), ('year', 0.0)])
-1238_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-539_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01658374792703151), ('year', 0.0)])
-379_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-348_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010714285714285714), ('year', 0.0)])
-363_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.022388059701492536), ('year', 0.0)])
-505_female
-OrderedDict([('people', 0.004934210526315789), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-676_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1100_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-528_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-899_male
-OrderedDict([('people', 0.00625), ('music', 0.0125), ('time', 0.005625), ('cancer', 0.0), ('year', 0.0)])
-654_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-831_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-358_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0176), ('year', 0.0)])
-1258_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-728_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-194_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-529_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.023508137432188065), ('year', 0.0)])
-1066_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-43_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-477_female
-OrderedDict([('people', 0.006896551724137931), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-532_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.009433962264150943), ('year', 0.0)])
-36_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-127_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-975_male
-OrderedDict([('people', 0.006680026720106881), ('music', 0.004676018704074816), ('time', 0.005344021376085505), ('cancer', 0.0), ('year', 0.0)])
-1252_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-985_male
-OrderedDict([('people', 0.0), ('music', 0.0070921985815602835), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1103_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-283_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-916_male
-OrderedDict([('people', 0.0), ('music', 0.015021459227467811), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1200_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-297_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-982_male
-OrderedDict([('people', 0.006042296072507553), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-170_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-583_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-341_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-905_male
-OrderedDict([('people', 0.0), ('music', 0.006657789613848202), ('time', 0.0), ('cancer', 0.0), ('year', 0.007989347536617843)])
-163_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.004036326942482341)])
-1147_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-339_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-619_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.005025125628140704)])
-53_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-546_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-547_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.010245901639344262), ('year', 0.0)])
-723_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-261_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-243_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.006711409395973154), ('cancer', 0.0), ('year', 0.0)])
-133_female
-OrderedDict([('people', 0.005695687550854353), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-447_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012178619756427604), ('year', 0.005412719891745603)])
-237_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1117_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-972_male
-OrderedDict([('people', 0.0), ('music', 0.0052750565184626974), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-950_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-423_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-907_male
-OrderedDict([('people', 0.0), ('music', 0.014285714285714285), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-60_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-602_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-780_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-210_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1232_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-562_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011527377521613832), ('year', 0.0)])
-345_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0203527815468114), ('year', 0.0)])
-877_male
-OrderedDict([('people', 0.0), ('music', 0.013896931094383324), ('time', 0.0026056745801968733), ('cancer', 0.0), ('year', 0.0)])
-1162_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-650_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-736_male
-OrderedDict([('people', 0.006361323155216285), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-733_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-798_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-430_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.00688298918387414), ('year', 0.0)])
-69_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-634_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-536_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.02203856749311295), ('year', 0.0)])
-107_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-977_male
-OrderedDict([('people', 0.00702576112412178), ('music', 0.0), ('time', 0.0078064012490242), ('cancer', 0.0), ('year', 0.0)])
-45_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-419_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-14_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-436_female
-OrderedDict([('people', 0.009722222222222222), ('music', 0.0), ('time', 0.0), ('cancer', 0.011111111111111112), ('year', 0.0)])
-1150_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-80_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-952_male
-OrderedDict([('people', 0.0), ('music', 0.012726054922973878), ('time', 0.0053583389149363695), ('cancer', 0.0), ('year', 0.0)])
-118_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-673_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.022284122562674095), ('year', 0.0)])
-355_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012542759407069556), ('year', 0.0)])
-663_male
-OrderedDict([('people', 0.015228426395939087), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-223_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-100_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-11_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-710_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-460_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0044742729306487695), ('cancer', 0.0), ('year', 0.0)])
-97_female
-OrderedDict([('people', 0.014652014652014652), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1183_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-285_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-432_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01380897583429229), ('year', 0.0)])
-823_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-881_male
-OrderedDict([('people', 0.005780346820809248), ('music', 0.00674373795761079), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-932_male
-OrderedDict([('people', 0.008705114254624592), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1024_male
-OrderedDict([('people', 0.009824561403508772), ('music', 0.010526315789473684), ('time', 0.0), ('cancer', 0.0), ('year', 0.007017543859649123)])
-1074_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-205_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-844_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-967_male
-OrderedDict([('people', 0.0), ('music', 0.011560693641618497), ('time', 0.004335260115606936), ('cancer', 0.0), ('year', 0.0)])
-1008_male
-OrderedDict([('people', 0.0), ('music', 0.011980830670926517), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-214_female
-OrderedDict([('people', 0.008350730688935281), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-892_male
-OrderedDict([('people', 0.0), ('music', 0.009242144177449169), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1188_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1154_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-909_male
-OrderedDict([('people', 0.0), ('music', 0.00784313725490196), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-68_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-906_male
-OrderedDict([('people', 0.0), ('music', 0.005579665220086794), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-183_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-263_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1043_male
-OrderedDict([('people', 0.0), ('music', 0.007269789983844911), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-175_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-724_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-815_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-915_male
-OrderedDict([('people', 0.0), ('music', 0.004985754985754986), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-452_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.020028612303290415), ('year', 0.0)])
-658_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1050_male
-OrderedDict([('people', 0.0), ('music', 0.009868421052631578), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1114_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-226_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-820_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0108499095840868), ('cancer', 0.0), ('year', 0.0)])
-901_male
-OrderedDict([('people', 0.0), ('music', 0.005825242718446602), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-946_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0032292787944025836), ('cancer', 0.0), ('year', 0.0)])
-126_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-55_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-849_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1049_male
-OrderedDict([('people', 0.0), ('music', 0.005636978579481398), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1149_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-212_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-729_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-898_male
-OrderedDict([('people', 0.0), ('music', 0.003968253968253968), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-677_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.009287925696594427)])
-369_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.019253910950661854), ('year', 0.0)])
-627_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-835_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-548_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014141414141414142), ('year', 0.0)])
-376_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.026865671641791045), ('year', 0.0)])
-1121_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1017_male
-OrderedDict([('people', 0.0), ('music', 0.007075471698113208), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-117_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1166_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1172_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-759_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-292_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-300_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.005805515239477504), ('cancer', 0.0), ('year', 0.0)])
-688_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1229_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1001_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.005636978579481398), ('cancer', 0.0), ('year', 0.0)])
-240_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-224_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1018_male
-OrderedDict([('people', 0.0), ('music', 0.007281553398058253), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-520_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.00819672131147541), ('year', 0.0)])
-1033_male
-OrderedDict([('people', 0.005625), ('music', 0.011875), ('time', 0.005), ('cancer', 0.0), ('year', 0.0)])
-973_male
-OrderedDict([('people', 0.0), ('music', 0.01809954751131222), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-533_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-262_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-95_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-779_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-991_male
-OrderedDict([('people', 0.007847533632286996), ('music', 0.005605381165919282), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-461_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1195_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-797_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-580_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1191_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1244_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-847_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-918_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.005121638924455826)])
-139_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-349_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014336917562724014), ('year', 0.0)])
-537_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.02591792656587473), ('year', 0.0)])
-233_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-686_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-302_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-833_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1029_male
-OrderedDict([('people', 0.0), ('music', 0.008022652194431336), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-377_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.022222222222222223), ('year', 0.006535947712418301)])
-266_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-9_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1132_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-680_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-41_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1178_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-140_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-162_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1053_male
-OrderedDict([('people', 0.0), ('music', 0.01138353765323993), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-12_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-706_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1077_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-987_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1027_male
-OrderedDict([('people', 0.0), ('music', 0.004248088360237893), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1153_male
-OrderedDict([('people', 0.0), ('music', 0.0047169811320754715), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-929_male
-OrderedDict([('people', 0.0), ('music', 0.0068415051311288486), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1092_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1082_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-774_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1056_male
-OrderedDict([('people', 0.0), ('music', 0.007261410788381743), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-543_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-353_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.013447432762836185), ('year', 0.0)])
-365_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.008064516129032258), ('year', 0.0)])
-172_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-265_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-272_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.006349206349206349)])
-467_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014157014157014158), ('year', 0.0)])
-416_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.004901960784313725), ('cancer', 0.0), ('year', 0.0)])
-420_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.018137847642079808), ('year', 0.0)])
-182_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-119_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-794_male
-OrderedDict([('people', 0.006657789613848202), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-643_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-989_male
-OrderedDict([('people', 0.0), ('music', 0.005673758865248227), ('time', 0.0028368794326241137), ('cancer', 0.0), ('year', 0.0)])
-44_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-640_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-656_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-563_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-687_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-351_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015853658536585366), ('year', 0.0)])
-611_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-902_male
-OrderedDict([('people', 0.005964214711729622), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1088_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-367_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.012004801920768308), ('year', 0.0)])
-605_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-600_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1009_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.008109794135995009)])
-1004_male
-OrderedDict([('people', 0.0), ('music', 0.007619047619047619), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-920_male
-OrderedDict([('people', 0.0), ('music', 0.01260239445494644), ('time', 0.006931316950220542), ('cancer', 0.0), ('year', 0.0)])
-413_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-778_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1041_male
-OrderedDict([('people', 0.0), ('music', 0.013713080168776372), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-720_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-608_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-949_male
-OrderedDict([('people', 0.0), ('music', 0.006763972944108224), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-734_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-522_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-231_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-800_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-764_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.011221945137157107), ('year', 0.0)])
-15_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-561_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.01867572156196944), ('year', 0.0)])
-655_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1248_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1148_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-813_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-424_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-167_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1226_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1010_male
-OrderedDict([('people', 0.0), ('music', 0.014098690835850957), ('time', 0.00906344410876133), ('cancer', 0.0), ('year', 0.0)])
-1099_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-990_male
-OrderedDict([('people', 0.0), ('music', 0.006939625260235947), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-908_male
-OrderedDict([('people', 0.0), ('music', 0.019689119170984457), ('time', 0.007253886010362694), ('cancer', 0.0), ('year', 0.0)])
-1048_male
-OrderedDict([('people', 0.005063291139240506), ('music', 0.00949367088607595), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-149_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-871_male
-OrderedDict([('people', 0.01284796573875803), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-645_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-887_male
-OrderedDict([('people', 0.015300546448087432), ('music', 0.012021857923497269), ('time', 0.0), ('cancer', 0.0), ('year', 0.01092896174863388)])
-159_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1144_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-222_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-671_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-1145_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-745_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-193_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-208_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.009925558312655087)])
-925_male
-OrderedDict([('people', 0.007801418439716312), ('music', 0.004964539007092199), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-595_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-678_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.008902077151335312)])
-784_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-101_female
-OrderedDict([('people', 0.0032733224222585926), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-566_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-880_male
-OrderedDict([('people', 0.007198952879581152), ('music', 0.007198952879581152), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-448_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.015151515151515152), ('year', 0.0)])
-1239_male
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.0), ('year', 0.0)])
-454_female
-OrderedDict([('people', 0.0), ('music', 0.0), ('time', 0.0), ('cancer', 0.014193548387096775), ('year', 0.0)])
+sitting
+in
+on
+a
+discussion
+day
+for
+breast
+cancer
+campaign
+yesterday,
+i
+was
+astonished
+at
+how
+much
+detailed
+work
+goes
+into
+all
+aspects
+of
+a
+research
+charity.
+the
+communications
+department
+was
+kind
+enough
+to
+ask
+me
+to
+speak
+at
+its
+event
+and,
+in
+talking
+to
+some
+of
+the
+team,
+i
+imbibed
+the
+enormous
+enthusiasm
+and
+staggering
+up-to-the-minute
+knowledge
+they
+all
+have
+about
+their
+subject.the
+breast
+cancer
+tissue
+bank
+grows
+apace,
+with
+virtually
+every
+person
+pleased
+to
+know
+that
+their
+removed
+tumour
+and
+tissue
+are
+being
+put
+to
+such
+good
+use.
+the
+reputation
+of
+the
+tissue
+bank
+has
+spread
+far
+and
+wide
+and
+i
+have
+even
+been
+the
+recipient
+of
+a
+request
+to
+use
+it
+from
+a
+new
+york
+breast
+cancer
+research
+laboratory.
+we
+have
+breast
+cancer
+campaign
+with
+the
+financial
+help
+of
+walk
+the
+walk
+to
+thank
+for
+this
+amazing
+storehouse
+of
+samples.indeed,
+i
+know
+i
+repeat
+myself
+but
+where
+on
+earth
+would
+we
+be
+without
+the
+various
+charities
+who
+fund
+research
+or
+care
+who
+else
+would
+pick
+up
+the
+pieces
+after
+a
+diagnosis
+of
+cancer
+who
+else
+would
+provide
+the
+funds
+for
+essential,
+life-saving
+research
+who
+else
+would
+campaign
+for
+changes
+in
+the
+law;
+for
+preventive
+work;
+for
+education
+about
+the
+various
+cancersas
+the
+next
+year
+unfolds,
+the
+way
+cancer
+is
+treated
+will
+continue
+to
+change.
+personalised
+medicine
+will
+target
+tumours
+more
+accurately
+and
+fewer
+patients
+will
+undergo
+unnecessary
+treatment.the
+beginning
+of
+tumour
+profiling
+will
+emerge
+more
+of
+this
+next
+year
+when
+i
+understand
+it
+properly
+and
+drugs
+commonly
+used
+for
+one
+type
+of
+cancer
+will
+be
+suggested
+for
+another.
+examining
+tumours
+at
+a
+molecular
+level
+will
+allow
+for
+analyses
+of
+the
+cancer's
+genetic
+information
+and
+proteins
+indeed,
+the
+word
+cancer
+may,
+eventually,
+not
+even
+have
+a
+body
+part
+attached
+to
+the
+word.
+the
+disease
+will
+simply
+be
+called
+cancer
+and
+each
+case
+will
+be
+treated
+individually.the
+caring
+charities
+will
+continue
+to
+do
+just
+that
+care
+with
+an
+increasing
+understanding
+of
+the
+emotional
+impact
+that
+a
+diagnosis
+of
+cancer
+has
+on
+the
+patient,
+the
+family,
+the
+friends
+and
+the
+work
+colleagues.
+helplines
+will
+expand
+so
+that
+there
+is
+always
+someone
+who
+understands
+just
+what
+a
+sudden
+cancer
+diagnosis
+means
+and
+support
+can
+begin.charities
+like
+the
+breast
+cancer
+haven
+will
+set
+up
+more
+centres
+and
+offer
+more
+of
+its
+invaluable
+complementary
+therapies
+to
+those
+who
+can
+walk
+through
+their
+doors.
+the
+haven's
+specialist
+breast
+cancer
+nurses
+will
+continue
+to
+support
+patients
+before,
+during
+and
+after
+treatment.
+i
+hope
+more
+gps
+will
+learn
+to
+appreciate
+the
+untold
+importance
+of
+the
+haven's
+work
+and
+not
+so
+readily
+discard
+fliers
+brought
+into
+their
+surgeries
+for
+display
+purposes
+perhaps
+they
+will
+even
+refer
+their
+patients
+to
+the
+haven
+or,
+at
+least,
+give
+them
+the
+website
+address.for
+male
+cancers,
+i
+hope
+that
+more
+men
+like
+roger
+uttley
+who
+played
+rugby
+for
+england
+will
+get
+on
+their
+bikes
+and
+cycle
+to
+raise
+money
+and
+awareness
+for
+prostate
+cancer
+uk.
+roger's
+ride
+was
+in
+memory
+of
+his
+friend,
+andy
+ripley
+also
+an
+england
+rugby
+player
+who
+died
+of
+prostate
+cancer
+three
+years
+ago.
+andy's
+cancer
+was
+found
+by
+accident
+after
+being
+taken
+ill
+with
+an
+embolism.as
+roger
+said,
+in
+an
+interview
+with
+alex
+lowe
+of
+the
+times,
+i
+think
+there
+is
+a
+general
+unwillingness
+in
+men
+to
+accept
+there
+might
+be
+something
+wrong,
+or
+a
+feeling
+that
+'i
+will
+address
+this
+later.'i
+receive
+many
+emails
+from
+men
+asking
+why
+breast
+cancer
+has
+so
+much
+publicity.
+my
+answer
+is
+always
+that
+women
+got
+up
+and
+made
+it
+happen.
+men
+can
+do
+just
+the
+same
+and
+i
+hope
+that,
+with
+people
+like
+roger
+uttley,
+neil
+stuke
+and
+ray
+winstone
+keeping
+the
+subject
+in
+front
+of
+the
+public
+we
+may
+see
+a
+sea-change
+in
+the
+next
+generation's
+attitude
+to
+talking
+about
+the
+embarrassing
+cancers
+and
+seeking
+help.thank
+you
+all
+for
+your
+comments,
+emails
+and
+support.
+i
+am
+taking
+a
+couple
+of
+weeks'
+break
+over
+the
+festive
+season
+and
+will
+be
+back
+in
+january.merry
+christmas.http:www.thehaven.org.ukhttp:prostatecancer.org.ukhttp:www.orchid-cancer.org.ukhttp:www.breastcancercampaign.org
+plans
+by
+the
+bank
+of
+england
+to
+cap
+riskier
+mortgage
+lending
+are
+being
+seen
+as
+an
+important
+part
+of
+the
+battle
+against
+the
+chance
+of
+a
+return
+to
+the
+problem
+mortgage
+market
+of
+the
+last
+decade.under
+the
+proposals,
+lenders
+will
+not
+be
+allowed
+to
+lend
+any
+more
+than
+15
+per
+cent
+of
+their
+residential
+mortgages
+at
+more
+than
+4.5
+times
+a
+borrower's
+income.if
+the
+government
+really
+believes
+that
+there
+is
+an
+impending
+housing
+bubble
+then
+putting
+a
+cap
+on
+high-value
+loans
+is
+long
+overdue.experience
+tells
+us
+that
+even
+a
+small
+slump
+in
+property
+prices
+can
+leave
+people
+in
+negative
+equity
+and
+anyone
+who
+has
+stretched
+their
+finances
+to
+the
+limit
+to
+borrow
+is
+at
+risk.the
+announcement
+made
+yesterday
+was
+a
+major
+departure
+for
+the
+uk.
+as
+andrew
+tyrie,
+chairman
+of
+the
+treasury
+select
+committee,
+said:
+the
+measure
+is
+an
+important
+signal.
+it
+demonstrates
+the
+bank's
+preparedness
+to
+use
+a
+financial
+stability
+tool
+as
+an
+insurance
+against
+the
+risk
+of
+overheating.
+it
+is
+a
+major
+departure
+for
+the
+uk.but
+the
+question
+is,
+has
+the
+bank
+gone
+far
+enough
+mr
+carney
+has
+alighted
+on
+4.5
+times
+salary
+as
+his
+limit
+to,
+as
+he
+puts
+it,
+set
+a
+fire-break
+on
+riskier
+lending.but
+some
+lenders,
+such
+as
+lloyds
+and
+rbs,
+have
+already
+set
+their
+limit
+lower,
+at
+four
+times
+income,
+albeit
+only
+for
+loans
+worth
+more
+than
+£500,000.as
+we
+discovered
+in
+the
+crazy
+days
+of
+the
+last
+decade
+when
+banks
+lent
+almost
+to
+anyone
+with
+a
+pulse,
+we
+need
+sensible
+limits
+on
+lending.maybe
+the
+governor
+should
+have
+listened
+to
+the
+banks
+and,
+as
+well
+as
+limiting
+to
+15
+per
+cent
+the
+number
+of
+loans
+at
+high
+multiples
+of
+income,
+he
+should
+have
+cracked
+down
+on
+how
+high
+those
+multiples
+should
+be
+with
+higher-value
+loans.it
+says
+something
+when
+our
+high
+street
+banks
+are
+being
+more
+prudent
+than
+our
+financial
+guardians.

@@ -20,6 +20,7 @@ class Classifier():
 
 	def parse_files(self):
 		for file in self.files:
+			#print(file.input_text)
 			file.parse()
 			file.remove_stopwords()
 		#self.files[0].parse()
@@ -28,7 +29,7 @@ class Classifier():
 		for file in self.files:
 			for word in file.parsed_text:
 				self.num_words_corpus += 1
-				self.most_frequent.append(word)
+				self.most_frequent.append(word.lower())
 		self.most_frequent = Counter(self.most_frequent).most_common(self.N)
 		aux = []
 		for item in self.most_frequent:
@@ -41,7 +42,7 @@ class Classifier():
 		for file in self.files:
 		#self.files[0].compute_vector()
 			#print(self.most_frequent)
-			print(file.file_name)
+			#print(file.file_name)
 			file.compute_vector(self.most_frequent)
 
 			#print(file.gender)
@@ -74,7 +75,7 @@ class FileInstance():
 		stopwords = sw.read().splitlines()
 	sw.close()
 	to_remove = punctuation + "—"
-	to_remove = to_remove.replace("@","")
+	#to_remove = to_remove.replace("@","")
 	punct = str.maketrans('','', to_remove) #create translation in order to use with translate, this erase the unnecessary symbols
 
 	#instance variables
@@ -83,6 +84,8 @@ class FileInstance():
 		self.gender = re.sub('^[^A-Za-z]*', '', self.file_name)
 		self.file_descriptor = dataset_dir + file_name
 		self.input_text = []
+		self.vocabulary = []
+		self.parsed_list = []
 		
 		with open(self.file_descriptor) as fd:
 			self.input_text = fd.read().split()
@@ -98,14 +101,9 @@ class FileInstance():
 		#print("File: ", self.file_name)
 		#print(len(self.input_text))
 		#print(self.input_text)
+		self.first_pass()
 
-		for word in self.input_text:
-			if len(re.findall(r"[\w,(?:,+)*]+", word)) > 1: #do not eliminate commas like in that's
-				compound = re.findall(r"[\w,(?:,+)*]+", word)
-				for item in compound:
-					self.parsed_text.append(item.translate(self.punct))
-			else:
-				self.parsed_text.append(word.translate(self.punct))
+		self.parsed_text
 		while '' in self.parsed_text:
 			self.parsed_text.remove('')
 		#update the number of legal words in the text before eliminate stopwords
@@ -113,6 +111,21 @@ class FileInstance():
 		#print(self.number_of_words)
 		#print(self.parsed_text)
 		del self.input_text[:] #after the input is analyzed, it is not needed anymore
+
+	def first_pass(self):
+		for word in self.input_text:
+			first_pass = word.lower().split()
+			for word1 in first_pass:
+				word2 = re.sub('[\\\\/*?()"<>|]', '', word1) #falten punts i comes (mirar números i merdes)
+				if(word2 != None):
+					self.parsed_list.append(word2)
+		for item in self.parsed_list:
+			if(item != '-'):
+				print(item)
+
+		
+
+
 	
 	def remove_stopwords(self):
 		newlist = []
@@ -134,21 +147,4 @@ class FileInstance():
 					frequency = item[1]
 					value = (frequency / self.number_of_words) #sobre 100? sobre 1?
 					self.features[k] = value
-		print(self.features.keys())
-
-
-
-
-		
-
-		'''for item in counter:
-			value = 0.0
-			#print(item)
-			if item[0].lower() in most_frequent:
-				frequency = item[1]
-				value = (frequency / self.number_of_words) #sobre 100? sobre 1?
-				self.features[item[0].lower()] = value
-			else:
-				self.features[item[0].lower()] = value'''
-			
-		#print(str(self.features.keys()) #TODO: Fer printing ben fet???
+		#print(self.features.keys())

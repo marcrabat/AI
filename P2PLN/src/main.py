@@ -3,8 +3,8 @@ from utils import Classifier
 
 
 class Main():
-	dataset_dir = "dataset/"
-	N = 100 #number of frequent words to be extracted
+	dataset_dir = "dataset_test/"
+	N = 5 #number of frequent words to be extracted
 
 	classifier = Classifier(dataset_dir, N)
 	classifier.most_frequent_words()
