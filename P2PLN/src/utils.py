@@ -1,19 +1,20 @@
 import os
-# import string
 from collections import Counter
 from collections import OrderedDict
 import re
 
 
-# TODO: nums amb comes i punts es farien aixi crec, aux.append(re.split('a-zA-Z_+', word))
-
+# nums i comes: aux.append(re.split('a-zA-Z_+', word))
 
 class Classifier:
-    def __init__(self, dataset_dir, N):
+    def __init__(self, dataset_dir, N, flag_stopwords):
         self.dataset_dir = dataset_dir
         self.files = []  # instancies de files
         self.N = N
         self.most_frequent = []
+        self.remove_stopwords = True
+        if flag_stopwords is 'n':
+            self.remove_stopwords = False
         self.initialize_files()
         self.parse_files()
 
@@ -24,11 +25,9 @@ class Classifier:
     def parse_files(self):
         for file in self.files:
             file.parse()
-            #print("Original length:" + str(file.vocabulary_length) + "\n")
-            #print(file.parsed_vocabulary)
-            file.remove_stopwords()
-            #print("After stopwords: " + str(len(file.parsed_vocabulary)) + "\n")
-            #print(file.parsed_vocabulary)
+
+            if self.remove_stopwords:
+                file.remove_stopwords()
 
     def most_frequent_words(self):
         for file in self.files:
@@ -46,32 +45,31 @@ class Classifier:
             file.compute_vector(self.most_frequent)
 
     def generate_arff(self):
-        file_name = str(self.N) + "- results.arff"
+        file_name = str(self.N) + "- results - StopwordsRemoved: " + str(self.remove_stopwords) + ".arff"
         with open(file_name, "w") as results:
             results.write("%1. Title: Results of Features")
             results.write("\n%2. Sources:")
             results.write("\n%\tAuthors: Ferran Cantarino i Marc Rabat")
             results.write("\n@RELATION " + str(self.N) + "_Features")
             for item in self.most_frequent:
-                results.write("\n@ATTRIBUTE " + str(item) + " NUMERIC")
+                aux = item
+                if "\'" in item:
+                    aux = item.replace("\'", ".")
+                results.write("\n@ATTRIBUTE " + str(aux) + " NUMERIC")
             results.write("\n@ATTRIBUTE class {male, female}")
             results.write("\n@DATA\n")
             for file in self.files:
-                for k,v in file.features.items():
+                for k, v in file.features.items():
                     results.write(str(str(v) + ","))
                 results.write(file.gender)
                 results.write("\n")
 
         results.close()
 
-    #def data_format(self):
-    #    for k, v in file.features.items():
-    #        results.write(str(str(v) + ","))
-    #    results.write(str(file.gender + "\n"))
 
 class FileInstance:
     # shared variables among all the file instances
-    punctuation = str("!#$%&()*+\"/:;<=>?[\].,^_—`{|}~")  # no cometa simple, si tota la resta
+    punctuation = str("!#$%&()*+\"/:;<=>@?[\].,^_—`{|}~")  # no cometa simple, si tota la resta
 
     with open("stopwords.txt", "r") as sw:
         stopwords = sw.read().splitlines()
@@ -93,7 +91,6 @@ class FileInstance:
         self.parsed_vocabulary = []
         self.features = OrderedDict()
 
-
     def compute_vector(self, most_frequent):
         # print(most_frequent)
         counter = Counter(self.parsed_vocabulary).most_common(self.N)
@@ -103,7 +100,7 @@ class FileInstance:
             for k, v in self.features.items():
                 if item[0] == k:
                     frequency = item[1]
-                    value = (frequency / self.vocabulary_length)*100  # sobre 100? sobre 1?
+                    value = (frequency / self.vocabulary_length)
                     self.features[k] = value
 
     def parse(self):
