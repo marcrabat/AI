@@ -25,9 +25,9 @@ class Classifier:
     def parse_files(self):
         for file in self.files:
             file.parse()
-
             if self.remove_stopwords:
                 file.remove_stopwords()
+            # print(file.parsed_vocabulary)
 
     def most_frequent_words(self):
         for file in self.files:
@@ -43,6 +43,7 @@ class Classifier:
     def compute_features(self):
         for file in self.files:
             file.compute_vector(self.most_frequent)
+
 
     def generate_arff(self):
         file_name = str(self.N) + "- results - StopwordsRemoved: " + str(self.remove_stopwords) + ".arff"
@@ -92,16 +93,19 @@ class FileInstance:
         self.features = OrderedDict()
 
     def compute_vector(self, most_frequent):
-        # print(most_frequent)
-        counter = Counter(self.parsed_vocabulary).most_common(self.N)
         for item in most_frequent:
             self.features[item] = 0
-        for item in counter:
-            for k, v in self.features.items():
-                if item[0] == k:
-                    frequency = item[1]
-                    value = (frequency / self.vocabulary_length)
-                    self.features[k] = value
+
+        for word in self.parsed_vocabulary:
+            for item in most_frequent:
+                count = 0
+                if word == item:
+                    count += 1
+                    self.features[item] = count
+
+        for k,v in self.features.items():
+            self.features[k] = (v / self.vocabulary_length)
+
 
     def parse(self):
         self.first_pass()
