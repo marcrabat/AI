@@ -1,8 +1,0 @@
-%1. Title: Results of Features
-%2. Sources:
-%	Authors: Ferran Cantarino i Marc Rabat
-@RELATION 5_Features
-@ATTRIBUTE class {male, female}
-@DATA
-female
-male

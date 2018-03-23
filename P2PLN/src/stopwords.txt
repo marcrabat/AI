@@ -182,7 +182,6 @@ hadn't
 happens
 hardly
 has
-hasn
 hasn't
 have
 haven't
@@ -297,6 +296,7 @@ needs
 neither
 never
 nevertheless
+new
 next
 nine
 no
