@@ -1,0 +1,2 @@
+Hem remogut els fitxers del dataset però hem deixat el directori aquí present ja que perquè el programa s'inicialitzi
+hem de tenir aquesta folder en el mateix directori que el programa.
