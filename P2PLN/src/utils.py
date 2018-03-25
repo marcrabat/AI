@@ -248,4 +248,3 @@ class FileInstance:
 
         for k, v in self.features.items():
             self.features[k] = (v / self.vocabulary_length)
-
